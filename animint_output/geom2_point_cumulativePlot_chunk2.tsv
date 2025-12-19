@@ -1,0 +1,3731 @@
+colour	x	y	tooltip	showSelected2	fill
+#F8766D	1	0	"Game 1 - Oct 08, 2015
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 0"	2015	#F8766D
+#F8766D	2	0	"Game 2 - Oct 10, 2015
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 0"	2015	#F8766D
+#F8766D	3	1	"Game 3 - Oct 13, 2015
+Points this game: 1
+Goals this game: 1
++/-: -1
+Cumulative points: 1"	2015	#F8766D
+#F8766D	4	1	"Game 4 - Oct 15, 2015
+Points this game: 0
+Goals this game: 0
++/-: -3
+Cumulative points: 1"	2015	#F8766D
+#F8766D	5	4	"Game 5 - Oct 17, 2015
+Points this game: 3
+Goals this game: 2
++/-: 3
+Cumulative points: 4"	2015	#F8766D
+#F8766D	6	5	"Game 6 - Oct 18, 2015
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 5"	2015	#F8766D
+#F8766D	7	6	"Game 7 - Oct 21, 2015
+Points this game: 1
+Goals this game: 1
++/-: 2
+Cumulative points: 6"	2015	#F8766D
+#F8766D	8	8	"Game 8 - Oct 23, 2015
+Points this game: 2
+Goals this game: 1
++/-: -1
+Cumulative points: 8"	2015	#F8766D
+#F8766D	9	9	"Game 9 - Oct 25, 2015
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 9"	2015	#F8766D
+#F8766D	10	10	"Game 10 - Oct 27, 2015
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 10"	2015	#F8766D
+#F8766D	11	12	"Game 11 - Oct 29, 2015
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 12"	2015	#F8766D
+#F8766D	12	12	"Game 12 - Oct 31, 2015
+Points this game: 0
+Goals this game: 0
++/-: -3
+Cumulative points: 12"	2015	#F8766D
+#F8766D	13	12	"Game 13 - Nov 03, 2015
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 12"	2015	#F8766D
+#F8766D	14	15	"Game 14 - Feb 02, 2016
+Points this game: 3
+Goals this game: 1
++/-: 3
+Cumulative points: 15"	2015	#F8766D
+#F8766D	15	17	"Game 15 - Feb 04, 2016
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 17"	2015	#F8766D
+#F8766D	16	17	"Game 16 - Feb 06, 2016
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 17"	2015	#F8766D
+#F8766D	17	18	"Game 17 - Feb 07, 2016
+Points this game: 1
+Goals this game: 1
++/-: -2
+Cumulative points: 18"	2015	#F8766D
+#F8766D	18	19	"Game 18 - Feb 09, 2016
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 19"	2015	#F8766D
+#F8766D	19	24	"Game 19 - Feb 11, 2016
+Points this game: 5
+Goals this game: 2
++/-: 5
+Cumulative points: 24"	2015	#F8766D
+#F8766D	20	24	"Game 20 - Feb 13, 2016
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 24"	2015	#F8766D
+#F8766D	21	25	"Game 21 - Feb 16, 2016
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 25"	2015	#F8766D
+#F8766D	22	26	"Game 22 - Feb 18, 2016
+Points this game: 1
+Goals this game: 1
++/-: 0
+Cumulative points: 26"	2015	#F8766D
+#F8766D	23	27	"Game 23 - Feb 20, 2016
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 27"	2015	#F8766D
+#F8766D	24	28	"Game 24 - Feb 23, 2016
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 28"	2015	#F8766D
+#F8766D	25	28	"Game 25 - Feb 25, 2016
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 28"	2015	#F8766D
+#F8766D	26	28	"Game 26 - Feb 26, 2016
+Points this game: 0
+Goals this game: 0
++/-: 1
+Cumulative points: 28"	2015	#F8766D
+#F8766D	27	29	"Game 27 - Feb 28, 2016
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 29"	2015	#F8766D
+#F8766D	28	31	"Game 28 - Mar 01, 2016
+Points this game: 2
+Goals this game: 2
++/-: 1
+Cumulative points: 31"	2015	#F8766D
+#F8766D	29	32	"Game 29 - Mar 03, 2016
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 32"	2015	#F8766D
+#F8766D	30	34	"Game 30 - Mar 04, 2016
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 34"	2015	#F8766D
+#F8766D	31	34	"Game 31 - Mar 06, 2016
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 34"	2015	#F8766D
+#F8766D	32	34	"Game 32 - Mar 08, 2016
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 34"	2015	#F8766D
+#F8766D	33	35	"Game 33 - Mar 10, 2016
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 35"	2015	#F8766D
+#F8766D	34	35	"Game 34 - Mar 12, 2016
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 35"	2015	#F8766D
+#F8766D	35	36	"Game 35 - Mar 14, 2016
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 36"	2015	#F8766D
+#F8766D	36	38	"Game 36 - Mar 16, 2016
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 38"	2015	#F8766D
+#F8766D	37	39	"Game 37 - Mar 18, 2016
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 39"	2015	#F8766D
+#F8766D	38	40	"Game 38 - Mar 20, 2016
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 40"	2015	#F8766D
+#F8766D	39	42	"Game 39 - Mar 22, 2016
+Points this game: 2
+Goals this game: 0
++/-: 0
+Cumulative points: 42"	2015	#F8766D
+#F8766D	40	43	"Game 40 - Mar 24, 2016
+Points this game: 1
+Goals this game: 0
++/-: 3
+Cumulative points: 43"	2015	#F8766D
+#F8766D	41	45	"Game 41 - Mar 26, 2016
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 45"	2015	#F8766D
+#F8766D	42	45	"Game 42 - Mar 28, 2016
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 45"	2015	#F8766D
+#F8766D	43	45	"Game 43 - Apr 02, 2016
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 45"	2015	#F8766D
+#F8766D	44	48	"Game 44 - Apr 06, 2016
+Points this game: 3
+Goals this game: 1
++/-: 3
+Cumulative points: 48"	2015	#F8766D
+#F8766D	45	48	"Game 45 - Apr 09, 2016
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 48"	2015	#F8766D
+#DB8E00	1	3	"Game 1 - Oct 12, 2016
+Points this game: 3
+Goals this game: 2
++/-: 2
+Cumulative points: 3"	2016	#DB8E00
+#DB8E00	2	6	"Game 2 - Oct 14, 2016
+Points this game: 3
+Goals this game: 1
++/-: 4
+Cumulative points: 6"	2016	#DB8E00
+#DB8E00	3	6	"Game 3 - Oct 16, 2016
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 6"	2016	#DB8E00
+#DB8E00	4	6	"Game 4 - Oct 18, 2016
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 6"	2016	#DB8E00
+#DB8E00	5	8	"Game 5 - Oct 20, 2016
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 8"	2016	#DB8E00
+#DB8E00	6	9	"Game 6 - Oct 23, 2016
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 9"	2016	#DB8E00
+#DB8E00	7	11	"Game 7 - Oct 26, 2016
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 11"	2016	#DB8E00
+#DB8E00	8	12	"Game 8 - Oct 28, 2016
+Points this game: 1
+Goals this game: 1
++/-: 2
+Cumulative points: 12"	2016	#DB8E00
+#DB8E00	9	12	"Game 9 - Oct 30, 2016
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 12"	2016	#DB8E00
+#DB8E00	10	12	"Game 10 - Nov 01, 2016
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 12"	2016	#DB8E00
+#DB8E00	11	13	"Game 11 - Nov 03, 2016
+Points this game: 1
+Goals this game: 0
++/-: -2
+Cumulative points: 13"	2016	#DB8E00
+#DB8E00	12	13	"Game 12 - Nov 05, 2016
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 13"	2016	#DB8E00
+#DB8E00	13	14	"Game 13 - Nov 06, 2016
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 14"	2016	#DB8E00
+#DB8E00	14	17	"Game 14 - Nov 08, 2016
+Points this game: 3
+Goals this game: 0
++/-: 3
+Cumulative points: 17"	2016	#DB8E00
+#DB8E00	15	18	"Game 15 - Nov 11, 2016
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 18"	2016	#DB8E00
+#DB8E00	16	19	"Game 16 - Nov 13, 2016
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 19"	2016	#DB8E00
+#DB8E00	17	19	"Game 17 - Nov 15, 2016
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 19"	2016	#DB8E00
+#DB8E00	18	19	"Game 18 - Nov 17, 2016
+Points this game: 0
+Goals this game: 0
++/-: -3
+Cumulative points: 19"	2016	#DB8E00
+#DB8E00	19	22	"Game 19 - Nov 19, 2016
+Points this game: 3
+Goals this game: 3
++/-: 2
+Cumulative points: 22"	2016	#DB8E00
+#DB8E00	20	24	"Game 20 - Nov 21, 2016
+Points this game: 2
+Goals this game: 0
++/-: 3
+Cumulative points: 24"	2016	#DB8E00
+#DB8E00	21	27	"Game 21 - Nov 23, 2016
+Points this game: 3
+Goals this game: 1
++/-: 3
+Cumulative points: 27"	2016	#DB8E00
+#DB8E00	22	28	"Game 22 - Nov 27, 2016
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 28"	2016	#DB8E00
+#DB8E00	23	30	"Game 23 - Nov 29, 2016
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 30"	2016	#DB8E00
+#DB8E00	24	33	"Game 24 - Dec 01, 2016
+Points this game: 3
+Goals this game: 0
++/-: 3
+Cumulative points: 33"	2016	#DB8E00
+#DB8E00	25	33	"Game 25 - Dec 03, 2016
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 33"	2016	#DB8E00
+#DB8E00	26	33	"Game 26 - Dec 04, 2016
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 33"	2016	#DB8E00
+#DB8E00	27	35	"Game 27 - Dec 06, 2016
+Points this game: 2
+Goals this game: 0
++/-: 0
+Cumulative points: 35"	2016	#DB8E00
+#DB8E00	28	37	"Game 28 - Dec 08, 2016
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 37"	2016	#DB8E00
+#DB8E00	29	37	"Game 29 - Dec 09, 2016
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 37"	2016	#DB8E00
+#DB8E00	30	38	"Game 30 - Dec 11, 2016
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 38"	2016	#DB8E00
+#DB8E00	31	38	"Game 31 - Dec 13, 2016
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 38"	2016	#DB8E00
+#DB8E00	32	38	"Game 32 - Dec 17, 2016
+Points this game: 0
+Goals this game: 0
++/-: 2
+Cumulative points: 38"	2016	#DB8E00
+#DB8E00	33	39	"Game 33 - Dec 19, 2016
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 39"	2016	#DB8E00
+#DB8E00	34	39	"Game 34 - Dec 21, 2016
+Points this game: 0
+Goals this game: 0
++/-: 1
+Cumulative points: 39"	2016	#DB8E00
+#DB8E00	35	41	"Game 35 - Dec 23, 2016
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 41"	2016	#DB8E00
+#DB8E00	36	41	"Game 36 - Dec 29, 2016
+Points this game: 0
+Goals this game: 0
++/-: 1
+Cumulative points: 41"	2016	#DB8E00
+#DB8E00	37	42	"Game 37 - Dec 31, 2016
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 42"	2016	#DB8E00
+#DB8E00	38	42	"Game 38 - Jan 03, 2017
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 42"	2016	#DB8E00
+#DB8E00	39	44	"Game 39 - Jan 05, 2017
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 44"	2016	#DB8E00
+#DB8E00	40	45	"Game 40 - Jan 07, 2017
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 45"	2016	#DB8E00
+#DB8E00	41	47	"Game 41 - Jan 08, 2017
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 47"	2016	#DB8E00
+#DB8E00	42	47	"Game 42 - Jan 10, 2017
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 47"	2016	#DB8E00
+#DB8E00	43	49	"Game 43 - Jan 12, 2017
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 49"	2016	#DB8E00
+#DB8E00	44	49	"Game 44 - Jan 14, 2017
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 49"	2016	#DB8E00
+#DB8E00	45	50	"Game 45 - Jan 16, 2017
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 50"	2016	#DB8E00
+#DB8E00	46	53	"Game 46 - Jan 18, 2017
+Points this game: 3
+Goals this game: 1
++/-: 2
+Cumulative points: 53"	2016	#DB8E00
+#DB8E00	47	54	"Game 47 - Jan 20, 2017
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 54"	2016	#DB8E00
+#DB8E00	48	55	"Game 48 - Jan 21, 2017
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 55"	2016	#DB8E00
+#DB8E00	49	56	"Game 49 - Jan 25, 2017
+Points this game: 1
+Goals this game: 0
++/-: 2
+Cumulative points: 56"	2016	#DB8E00
+#DB8E00	50	58	"Game 50 - Jan 26, 2017
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 58"	2016	#DB8E00
+#DB8E00	51	58	"Game 51 - Jan 31, 2017
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 58"	2016	#DB8E00
+#DB8E00	52	58	"Game 52 - Feb 02, 2017
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 58"	2016	#DB8E00
+#DB8E00	53	59	"Game 53 - Feb 03, 2017
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 59"	2016	#DB8E00
+#DB8E00	54	59	"Game 54 - Feb 05, 2017
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 59"	2016	#DB8E00
+#DB8E00	55	60	"Game 55 - Feb 11, 2017
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 60"	2016	#DB8E00
+#DB8E00	56	62	"Game 56 - Feb 14, 2017
+Points this game: 2
+Goals this game: 0
++/-: 3
+Cumulative points: 62"	2016	#DB8E00
+#DB8E00	57	65	"Game 57 - Feb 16, 2017
+Points this game: 3
+Goals this game: 1
++/-: 3
+Cumulative points: 65"	2016	#DB8E00
+#DB8E00	58	66	"Game 58 - Feb 18, 2017
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 66"	2016	#DB8E00
+#DB8E00	59	66	"Game 59 - Feb 21, 2017
+Points this game: 0
+Goals this game: 0
++/-: -3
+Cumulative points: 66"	2016	#DB8E00
+#DB8E00	60	67	"Game 60 - Feb 22, 2017
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 67"	2016	#DB8E00
+#DB8E00	61	68	"Game 61 - Feb 24, 2017
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 68"	2016	#DB8E00
+#DB8E00	62	70	"Game 62 - Feb 26, 2017
+Points this game: 2
+Goals this game: 1
++/-: 3
+Cumulative points: 70"	2016	#DB8E00
+#DB8E00	63	71	"Game 63 - Feb 28, 2017
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 71"	2016	#DB8E00
+#DB8E00	64	73	"Game 64 - Mar 04, 2017
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 73"	2016	#DB8E00
+#DB8E00	65	73	"Game 65 - Mar 07, 2017
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 73"	2016	#DB8E00
+#DB8E00	66	74	"Game 66 - Mar 10, 2017
+Points this game: 1
+Goals this game: 1
++/-: 0
+Cumulative points: 74"	2016	#DB8E00
+#DB8E00	67	74	"Game 67 - Mar 12, 2017
+Points this game: 0
+Goals this game: 0
++/-: -3
+Cumulative points: 74"	2016	#DB8E00
+#DB8E00	68	75	"Game 68 - Mar 14, 2017
+Points this game: 1
+Goals this game: 1
++/-: 3
+Cumulative points: 75"	2016	#DB8E00
+#DB8E00	69	78	"Game 69 - Mar 16, 2017
+Points this game: 3
+Goals this game: 0
++/-: 2
+Cumulative points: 78"	2016	#DB8E00
+#DB8E00	70	79	"Game 70 - Mar 18, 2017
+Points this game: 1
+Goals this game: 1
++/-: 2
+Cumulative points: 79"	2016	#DB8E00
+#DB8E00	71	81	"Game 71 - Mar 20, 2017
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 81"	2016	#DB8E00
+#DB8E00	72	84	"Game 72 - Mar 22, 2017
+Points this game: 3
+Goals this game: 1
++/-: 2
+Cumulative points: 84"	2016	#DB8E00
+#DB8E00	73	86	"Game 73 - Mar 23, 2017
+Points this game: 2
+Goals this game: 0
++/-: 0
+Cumulative points: 86"	2016	#DB8E00
+#DB8E00	74	87	"Game 74 - Mar 25, 2017
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 87"	2016	#DB8E00
+#DB8E00	75	88	"Game 75 - Mar 28, 2017
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 88"	2016	#DB8E00
+#DB8E00	76	90	"Game 76 - Mar 30, 2017
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 90"	2016	#DB8E00
+#DB8E00	77	93	"Game 77 - Apr 01, 2017
+Points this game: 3
+Goals this game: 1
++/-: 2
+Cumulative points: 93"	2016	#DB8E00
+#DB8E00	78	94	"Game 78 - Apr 04, 2017
+Points this game: 1
+Goals this game: 0
++/-: -2
+Cumulative points: 94"	2016	#DB8E00
+#DB8E00	79	96	"Game 79 - Apr 06, 2017
+Points this game: 2
+Goals this game: 1
++/-: 3
+Cumulative points: 96"	2016	#DB8E00
+#DB8E00	80	97	"Game 80 - Apr 08, 2017
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 97"	2016	#DB8E00
+#DB8E00	81	99	"Game 81 - Apr 09, 2017
+Points this game: 2
+Goals this game: 0
++/-: 3
+Cumulative points: 99"	2016	#DB8E00
+#AEA200	1	3	"Game 1 - Oct 04, 2017
+Points this game: 3
+Goals this game: 3
++/-: 3
+Cumulative points: 3"	2017	#AEA200
+#AEA200	2	3	"Game 2 - Oct 07, 2017
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 3"	2017	#AEA200
+#AEA200	3	4	"Game 3 - Oct 09, 2017
+Points this game: 1
+Goals this game: 0
++/-: -2
+Cumulative points: 4"	2017	#AEA200
+#AEA200	4	5	"Game 4 - Oct 14, 2017
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 5"	2017	#AEA200
+#AEA200	5	6	"Game 5 - Oct 17, 2017
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 6"	2017	#AEA200
+#AEA200	6	8	"Game 6 - Oct 19, 2017
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 8"	2017	#AEA200
+#AEA200	7	8	"Game 7 - Oct 21, 2017
+Points this game: 0
+Goals this game: 0
++/-: 1
+Cumulative points: 8"	2017	#AEA200
+#AEA200	8	9	"Game 8 - Oct 24, 2017
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 9"	2017	#AEA200
+#AEA200	9	10	"Game 9 - Oct 26, 2017
+Points this game: 1
+Goals this game: 1
++/-: 3
+Cumulative points: 10"	2017	#AEA200
+#AEA200	10	11	"Game 10 - Oct 28, 2017
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 11"	2017	#AEA200
+#AEA200	11	13	"Game 11 - Nov 01, 2017
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 13"	2017	#AEA200
+#AEA200	12	16	"Game 12 - Nov 03, 2017
+Points this game: 3
+Goals this game: 0
++/-: 2
+Cumulative points: 16"	2017	#AEA200
+#AEA200	13	16	"Game 13 - Nov 05, 2017
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 16"	2017	#AEA200
+#AEA200	14	17	"Game 14 - Nov 07, 2017
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 17"	2017	#AEA200
+#AEA200	15	18	"Game 15 - Nov 09, 2017
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 18"	2017	#AEA200
+#AEA200	16	19	"Game 16 - Nov 11, 2017
+Points this game: 1
+Goals this game: 1
++/-: -1
+Cumulative points: 19"	2017	#AEA200
+#AEA200	17	19	"Game 17 - Nov 12, 2017
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 19"	2017	#AEA200
+#AEA200	18	22	"Game 18 - Nov 14, 2017
+Points this game: 3
+Goals this game: 2
++/-: 4
+Cumulative points: 22"	2017	#AEA200
+#AEA200	19	22	"Game 19 - Nov 16, 2017
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 22"	2017	#AEA200
+#AEA200	20	25	"Game 20 - Nov 18, 2017
+Points this game: 3
+Goals this game: 1
++/-: -2
+Cumulative points: 25"	2017	#AEA200
+#AEA200	21	26	"Game 21 - Nov 21, 2017
+Points this game: 1
+Goals this game: 0
++/-: -3
+Cumulative points: 26"	2017	#AEA200
+#AEA200	22	28	"Game 22 - Nov 22, 2017
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 28"	2017	#AEA200
+#AEA200	23	28	"Game 23 - Nov 24, 2017
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 28"	2017	#AEA200
+#AEA200	24	30	"Game 24 - Nov 26, 2017
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 30"	2017	#AEA200
+#AEA200	25	30	"Game 25 - Nov 28, 2017
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 30"	2017	#AEA200
+#AEA200	26	31	"Game 26 - Nov 30, 2017
+Points this game: 1
+Goals this game: 1
++/-: -1
+Cumulative points: 31"	2017	#AEA200
+#AEA200	27	32	"Game 27 - Dec 02, 2017
+Points this game: 1
+Goals this game: 0
++/-: 2
+Cumulative points: 32"	2017	#AEA200
+#AEA200	28	33	"Game 28 - Dec 06, 2017
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 33"	2017	#AEA200
+#AEA200	29	35	"Game 29 - Dec 09, 2017
+Points this game: 2
+Goals this game: 0
++/-: 3
+Cumulative points: 35"	2017	#AEA200
+#AEA200	30	35	"Game 30 - Dec 10, 2017
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 35"	2017	#AEA200
+#AEA200	31	39	"Game 31 - Dec 12, 2017
+Points this game: 4
+Goals this game: 1
++/-: 4
+Cumulative points: 39"	2017	#AEA200
+#AEA200	32	39	"Game 32 - Dec 14, 2017
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 39"	2017	#AEA200
+#AEA200	33	40	"Game 33 - Dec 16, 2017
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 40"	2017	#AEA200
+#AEA200	34	40	"Game 34 - Dec 18, 2017
+Points this game: 0
+Goals this game: 0
++/-: 2
+Cumulative points: 40"	2017	#AEA200
+#AEA200	35	41	"Game 35 - Dec 21, 2017
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 41"	2017	#AEA200
+#AEA200	36	43	"Game 36 - Dec 23, 2017
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 43"	2017	#AEA200
+#AEA200	37	45	"Game 37 - Dec 27, 2017
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 45"	2017	#AEA200
+#AEA200	38	45	"Game 38 - Dec 29, 2017
+Points this game: 0
+Goals this game: 0
++/-: -3
+Cumulative points: 45"	2017	#AEA200
+#AEA200	39	45	"Game 39 - Dec 31, 2017
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 45"	2017	#AEA200
+#AEA200	40	45	"Game 40 - Jan 02, 2018
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 45"	2017	#AEA200
+#AEA200	41	46	"Game 41 - Jan 04, 2018
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 46"	2017	#AEA200
+#AEA200	42	47	"Game 42 - Jan 06, 2018
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 47"	2017	#AEA200
+#AEA200	43	47	"Game 43 - Jan 07, 2018
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 47"	2017	#AEA200
+#AEA200	44	48	"Game 44 - Jan 09, 2018
+Points this game: 1
+Goals this game: 1
++/-: -1
+Cumulative points: 48"	2017	#AEA200
+#AEA200	45	50	"Game 45 - Jan 12, 2018
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 50"	2017	#AEA200
+#AEA200	46	52	"Game 46 - Jan 13, 2018
+Points this game: 2
+Goals this game: 0
++/-: 0
+Cumulative points: 52"	2017	#AEA200
+#AEA200	47	53	"Game 47 - Jan 20, 2018
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 53"	2017	#AEA200
+#AEA200	48	53	"Game 48 - Jan 23, 2018
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 53"	2017	#AEA200
+#AEA200	49	54	"Game 49 - Jan 25, 2018
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 54"	2017	#AEA200
+#AEA200	50	56	"Game 50 - Feb 01, 2018
+Points this game: 2
+Goals this game: 2
++/-: 0
+Cumulative points: 56"	2017	#AEA200
+#AEA200	51	61	"Game 51 - Feb 05, 2018
+Points this game: 5
+Goals this game: 4
++/-: 5
+Cumulative points: 61"	2017	#AEA200
+#AEA200	52	63	"Game 52 - Feb 07, 2018
+Points this game: 2
+Goals this game: 1
++/-: 0
+Cumulative points: 63"	2017	#AEA200
+#AEA200	53	64	"Game 53 - Feb 09, 2018
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 64"	2017	#AEA200
+#AEA200	54	64	"Game 54 - Feb 10, 2018
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 64"	2017	#AEA200
+#AEA200	55	66	"Game 55 - Feb 12, 2018
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 66"	2017	#AEA200
+#AEA200	56	66	"Game 56 - Feb 15, 2018
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 66"	2017	#AEA200
+#AEA200	57	66	"Game 57 - Feb 17, 2018
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 66"	2017	#AEA200
+#AEA200	58	69	"Game 58 - Feb 18, 2018
+Points this game: 3
+Goals this game: 3
++/-: 3
+Cumulative points: 69"	2017	#AEA200
+#AEA200	59	69	"Game 59 - Feb 20, 2018
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 69"	2017	#AEA200
+#AEA200	60	71	"Game 60 - Feb 22, 2018
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 71"	2017	#AEA200
+#AEA200	61	71	"Game 61 - Feb 24, 2018
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 71"	2017	#AEA200
+#AEA200	62	74	"Game 62 - Feb 25, 2018
+Points this game: 3
+Goals this game: 0
++/-: 2
+Cumulative points: 74"	2017	#AEA200
+#AEA200	63	75	"Game 63 - Feb 27, 2018
+Points this game: 1
+Goals this game: 1
++/-: -2
+Cumulative points: 75"	2017	#AEA200
+#AEA200	64	77	"Game 64 - Mar 01, 2018
+Points this game: 2
+Goals this game: 1
++/-: 0
+Cumulative points: 77"	2017	#AEA200
+#AEA200	65	79	"Game 65 - Mar 03, 2018
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 79"	2017	#AEA200
+#AEA200	66	80	"Game 66 - Mar 05, 2018
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 80"	2017	#AEA200
+#AEA200	67	81	"Game 67 - Mar 08, 2018
+Points this game: 1
+Goals this game: 1
++/-: 0
+Cumulative points: 81"	2017	#AEA200
+#AEA200	68	84	"Game 68 - Mar 10, 2018
+Points this game: 3
+Goals this game: 2
++/-: 4
+Cumulative points: 84"	2017	#AEA200
+#AEA200	69	84	"Game 69 - Mar 13, 2018
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 84"	2017	#AEA200
+#AEA200	70	86	"Game 70 - Mar 14, 2018
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 86"	2017	#AEA200
+#AEA200	71	89	"Game 71 - Mar 17, 2018
+Points this game: 3
+Goals this game: 1
++/-: 2
+Cumulative points: 89"	2017	#AEA200
+#AEA200	72	89	"Game 72 - Mar 18, 2018
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 89"	2017	#AEA200
+#AEA200	73	90	"Game 73 - Mar 20, 2018
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 90"	2017	#AEA200
+#AEA200	74	94	"Game 74 - Mar 22, 2018
+Points this game: 4
+Goals this game: 2
++/-: 4
+Cumulative points: 94"	2017	#AEA200
+#AEA200	75	96	"Game 75 - Mar 24, 2018
+Points this game: 2
+Goals this game: 2
++/-: 2
+Cumulative points: 96"	2017	#AEA200
+#AEA200	76	99	"Game 76 - Mar 25, 2018
+Points this game: 3
+Goals this game: 1
++/-: 1
+Cumulative points: 99"	2017	#AEA200
+#AEA200	77	102	"Game 77 - Mar 27, 2018
+Points this game: 3
+Goals this game: 1
++/-: -1
+Cumulative points: 102"	2017	#AEA200
+#AEA200	78	103	"Game 78 - Mar 29, 2018
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 103"	2017	#AEA200
+#AEA200	79	103	"Game 79 - Mar 31, 2018
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 103"	2017	#AEA200
+#AEA200	80	103	"Game 80 - Apr 02, 2018
+Points this game: 0
+Goals this game: 0
++/-: -3
+Cumulative points: 103"	2017	#AEA200
+#AEA200	81	106	"Game 81 - Apr 05, 2018
+Points this game: 3
+Goals this game: 0
++/-: 2
+Cumulative points: 106"	2017	#AEA200
+#AEA200	82	108	"Game 82 - Apr 07, 2018
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 108"	2017	#AEA200
+#64B200	1	2	"Game 1 - Oct 06, 2018
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 2"	2018	#64B200
+#64B200	2	3	"Game 2 - Oct 11, 2018
+Points this game: 1
+Goals this game: 1
++/-: -1
+Cumulative points: 3"	2018	#64B200
+#64B200	3	5	"Game 3 - Oct 13, 2018
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 5"	2018	#64B200
+#64B200	4	9	"Game 4 - Oct 16, 2018
+Points this game: 4
+Goals this game: 2
++/-: 4
+Cumulative points: 9"	2018	#64B200
+#64B200	5	11	"Game 5 - Oct 18, 2018
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 11"	2018	#64B200
+#64B200	6	11	"Game 6 - Oct 20, 2018
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 11"	2018	#64B200
+#64B200	7	13	"Game 7 - Oct 23, 2018
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 13"	2018	#64B200
+#64B200	8	14	"Game 8 - Oct 25, 2018
+Points this game: 1
+Goals this game: 1
++/-: 0
+Cumulative points: 14"	2018	#64B200
+#64B200	9	16	"Game 9 - Oct 27, 2018
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 16"	2018	#64B200
+#64B200	10	17	"Game 10 - Oct 28, 2018
+Points this game: 1
+Goals this game: 1
++/-: 0
+Cumulative points: 17"	2018	#64B200
+#64B200	11	18	"Game 11 - Oct 30, 2018
+Points this game: 1
+Goals this game: 1
++/-: 0
+Cumulative points: 18"	2018	#64B200
+#64B200	12	19	"Game 12 - Nov 01, 2018
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 19"	2018	#64B200
+#64B200	13	21	"Game 13 - Nov 03, 2018
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 21"	2018	#64B200
+#64B200	14	22	"Game 14 - Nov 05, 2018
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 22"	2018	#64B200
+#64B200	15	22	"Game 15 - Nov 06, 2018
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 22"	2018	#64B200
+#64B200	16	23	"Game 16 - Nov 08, 2018
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 23"	2018	#64B200
+#64B200	17	23	"Game 17 - Nov 11, 2018
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 23"	2018	#64B200
+#64B200	18	26	"Game 18 - Nov 13, 2018
+Points this game: 3
+Goals this game: 0
++/-: 1
+Cumulative points: 26"	2018	#64B200
+#64B200	19	27	"Game 19 - Nov 17, 2018
+Points this game: 1
+Goals this game: 1
++/-: -2
+Cumulative points: 27"	2018	#64B200
+#64B200	20	28	"Game 20 - Nov 18, 2018
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 28"	2018	#64B200
+#64B200	21	31	"Game 21 - Nov 20, 2018
+Points this game: 3
+Goals this game: 1
++/-: 2
+Cumulative points: 31"	2018	#64B200
+#64B200	22	32	"Game 22 - Nov 23, 2018
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 32"	2018	#64B200
+#64B200	23	33	"Game 23 - Nov 25, 2018
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 33"	2018	#64B200
+#64B200	24	33	"Game 24 - Nov 27, 2018
+Points this game: 0
+Goals this game: 0
++/-: 1
+Cumulative points: 33"	2018	#64B200
+#64B200	25	34	"Game 25 - Nov 29, 2018
+Points this game: 1
+Goals this game: 0
++/-: 2
+Cumulative points: 34"	2018	#64B200
+#64B200	26	35	"Game 26 - Dec 01, 2018
+Points this game: 1
+Goals this game: 1
++/-: 0
+Cumulative points: 35"	2018	#64B200
+#64B200	27	36	"Game 27 - Dec 05, 2018
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 36"	2018	#64B200
+#64B200	28	40	"Game 28 - Dec 07, 2018
+Points this game: 4
+Goals this game: 1
++/-: 4
+Cumulative points: 40"	2018	#64B200
+#64B200	29	41	"Game 29 - Dec 09, 2018
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 41"	2018	#64B200
+#64B200	30	43	"Game 30 - Dec 11, 2018
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 43"	2018	#64B200
+#64B200	31	45	"Game 31 - Dec 13, 2018
+Points this game: 2
+Goals this game: 0
++/-: 0
+Cumulative points: 45"	2018	#64B200
+#64B200	32	48	"Game 32 - Dec 14, 2018
+Points this game: 3
+Goals this game: 2
++/-: 1
+Cumulative points: 48"	2018	#64B200
+#64B200	33	49	"Game 33 - Dec 16, 2018
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 49"	2018	#64B200
+#64B200	34	49	"Game 34 - Dec 18, 2018
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 49"	2018	#64B200
+#64B200	35	52	"Game 35 - Dec 22, 2018
+Points this game: 3
+Goals this game: 0
++/-: -1
+Cumulative points: 52"	2018	#64B200
+#64B200	36	54	"Game 36 - Dec 27, 2018
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 54"	2018	#64B200
+#64B200	37	56	"Game 37 - Dec 29, 2018
+Points this game: 2
+Goals this game: 2
++/-: 1
+Cumulative points: 56"	2018	#64B200
+#64B200	38	58	"Game 38 - Dec 31, 2018
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 58"	2018	#64B200
+#64B200	39	61	"Game 39 - Jan 02, 2019
+Points this game: 3
+Goals this game: 2
++/-: 2
+Cumulative points: 61"	2018	#64B200
+#64B200	40	61	"Game 40 - Jan 05, 2019
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 61"	2018	#64B200
+#64B200	41	62	"Game 41 - Jan 06, 2019
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 62"	2018	#64B200
+#64B200	42	63	"Game 42 - Jan 08, 2019
+Points this game: 1
+Goals this game: 0
++/-: -2
+Cumulative points: 63"	2018	#64B200
+#64B200	43	66	"Game 43 - Jan 10, 2019
+Points this game: 3
+Goals this game: 2
++/-: 2
+Cumulative points: 66"	2018	#64B200
+#64B200	44	67	"Game 44 - Jan 12, 2019
+Points this game: 1
+Goals this game: 1
++/-: 0
+Cumulative points: 67"	2018	#64B200
+#64B200	45	69	"Game 45 - Jan 14, 2019
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 69"	2018	#64B200
+#64B200	46	70	"Game 46 - Jan 16, 2019
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 70"	2018	#64B200
+#64B200	47	70	"Game 47 - Jan 19, 2019
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 70"	2018	#64B200
+#64B200	48	72	"Game 48 - Jan 20, 2019
+Points this game: 2
+Goals this game: 0
++/-: -2
+Cumulative points: 72"	2018	#64B200
+#64B200	49	73	"Game 49 - Jan 22, 2019
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 73"	2018	#64B200
+#64B200	50	75	"Game 50 - Feb 02, 2019
+Points this game: 2
+Goals this game: 1
++/-: 0
+Cumulative points: 75"	2018	#64B200
+#64B200	51	76	"Game 51 - Feb 03, 2019
+Points this game: 1
+Goals this game: 1
++/-: 2
+Cumulative points: 76"	2018	#64B200
+#64B200	52	78	"Game 52 - Feb 05, 2019
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 78"	2018	#64B200
+#64B200	53	80	"Game 53 - Feb 07, 2019
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 80"	2018	#64B200
+#64B200	54	80	"Game 54 - Feb 09, 2019
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 80"	2018	#64B200
+#64B200	55	81	"Game 55 - Feb 13, 2019
+Points this game: 1
+Goals this game: 0
++/-: -2
+Cumulative points: 81"	2018	#64B200
+#64B200	56	81	"Game 56 - Feb 15, 2019
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 81"	2018	#64B200
+#64B200	57	82	"Game 57 - Feb 16, 2019
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 82"	2018	#64B200
+#64B200	58	84	"Game 58 - Feb 21, 2019
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 84"	2018	#64B200
+#64B200	59	85	"Game 59 - Feb 27, 2019
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 85"	2018	#64B200
+#64B200	60	86	"Game 60 - Feb 28, 2019
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 86"	2018	#64B200
+#64B200	61	89	"Game 61 - Mar 02, 2019
+Points this game: 3
+Goals this game: 0
++/-: 4
+Cumulative points: 89"	2018	#64B200
+#64B200	62	91	"Game 62 - Mar 04, 2019
+Points this game: 2
+Goals this game: 0
++/-: 0
+Cumulative points: 91"	2018	#64B200
+#64B200	63	93	"Game 63 - Mar 07, 2019
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 93"	2018	#64B200
+#64B200	64	95	"Game 64 - Mar 09, 2019
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 95"	2018	#64B200
+#64B200	65	97	"Game 65 - Mar 11, 2019
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 97"	2018	#64B200
+#64B200	66	99	"Game 66 - Mar 13, 2019
+Points this game: 2
+Goals this game: 0
++/-: 0
+Cumulative points: 99"	2018	#64B200
+#64B200	67	102	"Game 67 - Mar 16, 2019
+Points this game: 3
+Goals this game: 2
++/-: 3
+Cumulative points: 102"	2018	#64B200
+#64B200	68	104	"Game 68 - Mar 17, 2019
+Points this game: 2
+Goals this game: 0
++/-: 0
+Cumulative points: 104"	2018	#64B200
+#64B200	69	104	"Game 69 - Mar 19, 2019
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 104"	2018	#64B200
+#64B200	70	106	"Game 70 - Mar 21, 2019
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 106"	2018	#64B200
+#64B200	71	107	"Game 71 - Mar 23, 2019
+Points this game: 1
+Goals this game: 1
++/-: -3
+Cumulative points: 107"	2018	#64B200
+#64B200	72	111	"Game 72 - Mar 26, 2019
+Points this game: 4
+Goals this game: 1
++/-: 3
+Cumulative points: 111"	2018	#64B200
+#64B200	73	113	"Game 73 - Mar 28, 2019
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 113"	2018	#64B200
+#64B200	74	113	"Game 74 - Mar 30, 2019
+Points this game: 0
+Goals this game: 0
++/-: -3
+Cumulative points: 113"	2018	#64B200
+#64B200	75	114	"Game 75 - Apr 01, 2019
+Points this game: 1
+Goals this game: 1
++/-: -2
+Cumulative points: 114"	2018	#64B200
+#64B200	76	114	"Game 76 - Apr 02, 2019
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 114"	2018	#64B200
+#64B200	77	115	"Game 77 - Apr 04, 2019
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 115"	2018	#64B200
+#64B200	78	115	"Game 78 - Apr 06, 2019
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 115"	2018	#64B200
+#00BD5C	1	1	"Game 1 - Oct 02, 2019
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 1"	2019	#00BD5C
+#00BD5C	2	5	"Game 2 - Oct 05, 2019
+Points this game: 4
+Goals this game: 1
++/-: 2
+Cumulative points: 5"	2019	#00BD5C
+#00BD5C	3	8	"Game 3 - Oct 08, 2019
+Points this game: 3
+Goals this game: 0
++/-: 2
+Cumulative points: 8"	2019	#00BD5C
+#00BD5C	4	10	"Game 4 - Oct 10, 2019
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 10"	2019	#00BD5C
+#00BD5C	5	12	"Game 5 - Oct 12, 2019
+Points this game: 2
+Goals this game: 1
++/-: 3
+Cumulative points: 12"	2019	#00BD5C
+#00BD5C	6	12	"Game 6 - Oct 14, 2019
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 12"	2019	#00BD5C
+#00BD5C	7	17	"Game 7 - Oct 16, 2019
+Points this game: 5
+Goals this game: 1
++/-: 4
+Cumulative points: 17"	2019	#00BD5C
+#00BD5C	8	17	"Game 8 - Oct 18, 2019
+Points this game: 0
+Goals this game: 0
++/-: 1
+Cumulative points: 17"	2019	#00BD5C
+#00BD5C	9	17	"Game 9 - Oct 20, 2019
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 17"	2019	#00BD5C
+#00BD5C	10	17	"Game 10 - Oct 22, 2019
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 17"	2019	#00BD5C
+#00BD5C	11	20	"Game 11 - Oct 24, 2019
+Points this game: 3
+Goals this game: 1
++/-: 4
+Cumulative points: 20"	2019	#00BD5C
+#00BD5C	12	21	"Game 12 - Oct 27, 2019
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 21"	2019	#00BD5C
+#00BD5C	13	22	"Game 13 - Oct 29, 2019
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 22"	2019	#00BD5C
+#00BD5C	14	23	"Game 14 - Oct 30, 2019
+Points this game: 1
+Goals this game: 0
++/-: 3
+Cumulative points: 23"	2019	#00BD5C
+#00BD5C	15	23	"Game 15 - Nov 02, 2019
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 23"	2019	#00BD5C
+#00BD5C	16	24	"Game 16 - Nov 04, 2019
+Points this game: 1
+Goals this game: 1
++/-: -1
+Cumulative points: 24"	2019	#00BD5C
+#00BD5C	17	26	"Game 17 - Nov 06, 2019
+Points this game: 2
+Goals this game: 1
++/-: -1
+Cumulative points: 26"	2019	#00BD5C
+#00BD5C	18	27	"Game 18 - Nov 08, 2019
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 27"	2019	#00BD5C
+#00BD5C	19	30	"Game 19 - Nov 10, 2019
+Points this game: 3
+Goals this game: 3
++/-: 3
+Cumulative points: 30"	2019	#00BD5C
+#00BD5C	20	31	"Game 20 - Nov 12, 2019
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 31"	2019	#00BD5C
+#00BD5C	21	37	"Game 21 - Nov 14, 2019
+Points this game: 6
+Goals this game: 3
++/-: 5
+Cumulative points: 37"	2019	#00BD5C
+#00BD5C	22	40	"Game 22 - Nov 16, 2019
+Points this game: 3
+Goals this game: 0
++/-: -1
+Cumulative points: 40"	2019	#00BD5C
+#00BD5C	23	43	"Game 23 - Nov 19, 2019
+Points this game: 3
+Goals this game: 1
++/-: 2
+Cumulative points: 43"	2019	#00BD5C
+#00BD5C	24	44	"Game 24 - Nov 21, 2019
+Points this game: 1
+Goals this game: 1
++/-: -2
+Cumulative points: 44"	2019	#00BD5C
+#00BD5C	25	46	"Game 25 - Nov 23, 2019
+Points this game: 2
+Goals this game: 2
++/-: 3
+Cumulative points: 46"	2019	#00BD5C
+#00BD5C	26	47	"Game 26 - Nov 24, 2019
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 47"	2019	#00BD5C
+#00BD5C	27	47	"Game 27 - Nov 27, 2019
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 47"	2019	#00BD5C
+#00BD5C	28	49	"Game 28 - Nov 30, 2019
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 49"	2019	#00BD5C
+#00BD5C	29	51	"Game 29 - Dec 01, 2019
+Points this game: 2
+Goals this game: 0
++/-: 3
+Cumulative points: 51"	2019	#00BD5C
+#00BD5C	30	51	"Game 30 - Dec 04, 2019
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 51"	2019	#00BD5C
+#00BD5C	31	52	"Game 31 - Dec 06, 2019
+Points this game: 1
+Goals this game: 0
++/-: 2
+Cumulative points: 52"	2019	#00BD5C
+#00BD5C	32	52	"Game 32 - Dec 08, 2019
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 52"	2019	#00BD5C
+#00BD5C	33	55	"Game 33 - Dec 10, 2019
+Points this game: 3
+Goals this game: 0
++/-: 3
+Cumulative points: 55"	2019	#00BD5C
+#00BD5C	34	57	"Game 34 - Dec 12, 2019
+Points this game: 2
+Goals this game: 1
++/-: 0
+Cumulative points: 57"	2019	#00BD5C
+#00BD5C	35	57	"Game 35 - Dec 14, 2019
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 57"	2019	#00BD5C
+#00BD5C	36	59	"Game 36 - Dec 16, 2019
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 59"	2019	#00BD5C
+#00BD5C	37	59	"Game 37 - Dec 18, 2019
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 59"	2019	#00BD5C
+#00BD5C	38	59	"Game 38 - Dec 20, 2019
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 59"	2019	#00BD5C
+#00BD5C	39	61	"Game 39 - Dec 21, 2019
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 61"	2019	#00BD5C
+#00BD5C	40	62	"Game 40 - Dec 23, 2019
+Points this game: 1
+Goals this game: 0
++/-: -2
+Cumulative points: 62"	2019	#00BD5C
+#00BD5C	41	63	"Game 41 - Dec 27, 2019
+Points this game: 1
+Goals this game: 1
++/-: -2
+Cumulative points: 63"	2019	#00BD5C
+#00BD5C	42	64	"Game 42 - Dec 31, 2019
+Points this game: 1
+Goals this game: 0
++/-: 4
+Cumulative points: 64"	2019	#00BD5C
+#00BD5C	43	64	"Game 43 - Jan 02, 2020
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 64"	2019	#00BD5C
+#00BD5C	44	65	"Game 44 - Jan 04, 2020
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 65"	2019	#00BD5C
+#00BD5C	45	69	"Game 45 - Jan 06, 2020
+Points this game: 4
+Goals this game: 1
++/-: 4
+Cumulative points: 69"	2019	#00BD5C
+#00BD5C	46	70	"Game 46 - Jan 09, 2020
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 70"	2019	#00BD5C
+#00BD5C	47	71	"Game 47 - Jan 11, 2020
+Points this game: 1
+Goals this game: 1
++/-: 0
+Cumulative points: 71"	2019	#00BD5C
+#00BD5C	48	74	"Game 48 - Jan 14, 2020
+Points this game: 3
+Goals this game: 0
++/-: 1
+Cumulative points: 74"	2019	#00BD5C
+#00BD5C	49	76	"Game 49 - Jan 18, 2020
+Points this game: 2
+Goals this game: 2
++/-: 3
+Cumulative points: 76"	2019	#00BD5C
+#00BD5C	50	77	"Game 50 - Jan 29, 2020
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 77"	2019	#00BD5C
+#00BD5C	51	77	"Game 51 - Jan 31, 2020
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 77"	2019	#00BD5C
+#00BD5C	52	79	"Game 52 - Feb 01, 2020
+Points this game: 2
+Goals this game: 2
++/-: 1
+Cumulative points: 79"	2019	#00BD5C
+#00BD5C	53	79	"Game 53 - Feb 04, 2020
+Points this game: 0
+Goals this game: 0
++/-: -3
+Cumulative points: 79"	2019	#00BD5C
+#00BD5C	54	80	"Game 54 - Feb 06, 2020
+Points this game: 1
+Goals this game: 1
++/-: -1
+Cumulative points: 80"	2019	#00BD5C
+#00BD5C	55	81	"Game 55 - Feb 08, 2020
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 81"	2019	#00BD5C
+#00BD5C	56	84	"Game 56 - Feb 23, 2020
+Points this game: 3
+Goals this game: 1
++/-: 2
+Cumulative points: 84"	2019	#00BD5C
+#00BD5C	57	87	"Game 57 - Feb 25, 2020
+Points this game: 3
+Goals this game: 0
++/-: 3
+Cumulative points: 87"	2019	#00BD5C
+#00BD5C	58	87	"Game 58 - Feb 26, 2020
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 87"	2019	#00BD5C
+#00BD5C	59	89	"Game 59 - Feb 29, 2020
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 89"	2019	#00BD5C
+#00BD5C	60	94	"Game 60 - Mar 02, 2020
+Points this game: 5
+Goals this game: 1
++/-: 4
+Cumulative points: 94"	2019	#00BD5C
+#00BD5C	61	95	"Game 61 - Mar 03, 2020
+Points this game: 1
+Goals this game: 0
++/-: 2
+Cumulative points: 95"	2019	#00BD5C
+#00BD5C	62	95	"Game 62 - Mar 05, 2020
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 95"	2019	#00BD5C
+#00BD5C	63	96	"Game 63 - Mar 07, 2020
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 96"	2019	#00BD5C
+#00BD5C	64	97	"Game 64 - Mar 11, 2020
+Points this game: 1
+Goals this game: 1
++/-: -1
+Cumulative points: 97"	2019	#00BD5C
+#00C1A7	1	0	"Game 1 - Jan 13, 2021
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 0"	2020	#00C1A7
+#00C1A7	2	4	"Game 2 - Jan 14, 2021
+Points this game: 4
+Goals this game: 3
++/-: 4
+Cumulative points: 4"	2020	#00C1A7
+#00C1A7	3	5	"Game 3 - Jan 16, 2021
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 5"	2020	#00C1A7
+#00C1A7	4	5	"Game 4 - Jan 18, 2021
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 5"	2020	#00C1A7
+#00C1A7	5	6	"Game 5 - Jan 20, 2021
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 6"	2020	#00C1A7
+#00C1A7	6	7	"Game 6 - Jan 22, 2021
+Points this game: 1
+Goals this game: 1
++/-: 0
+Cumulative points: 7"	2020	#00C1A7
+#00C1A7	7	10	"Game 7 - Jan 24, 2021
+Points this game: 3
+Goals this game: 0
++/-: 3
+Cumulative points: 10"	2020	#00C1A7
+#00C1A7	8	12	"Game 8 - Jan 26, 2021
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 12"	2020	#00C1A7
+#00C1A7	9	14	"Game 9 - Jan 28, 2021
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 14"	2020	#00C1A7
+#00C1A7	10	17	"Game 10 - Jan 30, 2021
+Points this game: 3
+Goals this game: 2
++/-: 2
+Cumulative points: 17"	2020	#00C1A7
+#00C1A7	11	22	"Game 11 - Jan 31, 2021
+Points this game: 5
+Goals this game: 1
++/-: 3
+Cumulative points: 22"	2020	#00C1A7
+#00C1A7	12	24	"Game 12 - Feb 02, 2021
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 24"	2020	#00C1A7
+#00C1A7	13	26	"Game 13 - Feb 06, 2021
+Points this game: 2
+Goals this game: 1
++/-: 0
+Cumulative points: 26"	2020	#00C1A7
+#00C1A7	14	27	"Game 14 - Feb 08, 2021
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 27"	2020	#00C1A7
+#00C1A7	15	27	"Game 15 - Feb 09, 2021
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 27"	2020	#00C1A7
+#00C1A7	16	28	"Game 16 - Feb 11, 2021
+Points this game: 1
+Goals this game: 0
++/-: 2
+Cumulative points: 28"	2020	#00C1A7
+#00C1A7	17	30	"Game 17 - Feb 15, 2021
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 30"	2020	#00C1A7
+#00C1A7	18	32	"Game 18 - Feb 17, 2021
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 32"	2020	#00C1A7
+#00C1A7	19	32	"Game 19 - Feb 19, 2021
+Points this game: 0
+Goals this game: 0
++/-: 1
+Cumulative points: 32"	2020	#00C1A7
+#00C1A7	20	37	"Game 20 - Feb 20, 2021
+Points this game: 5
+Goals this game: 3
++/-: 6
+Cumulative points: 37"	2020	#00C1A7
+#00C1A7	21	38	"Game 21 - Feb 23, 2021
+Points this game: 1
+Goals this game: 1
++/-: 0
+Cumulative points: 38"	2020	#00C1A7
+#00C1A7	22	40	"Game 22 - Feb 25, 2021
+Points this game: 2
+Goals this game: 1
++/-: 3
+Cumulative points: 40"	2020	#00C1A7
+#00C1A7	23	40	"Game 23 - Feb 27, 2021
+Points this game: 0
+Goals this game: 0
++/-: -3
+Cumulative points: 40"	2020	#00C1A7
+#00C1A7	24	40	"Game 24 - Mar 01, 2021
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 40"	2020	#00C1A7
+#00C1A7	25	40	"Game 25 - Mar 03, 2021
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 40"	2020	#00C1A7
+#00C1A7	26	43	"Game 26 - Mar 06, 2021
+Points this game: 3
+Goals this game: 1
++/-: 3
+Cumulative points: 43"	2020	#00C1A7
+#00C1A7	27	45	"Game 27 - Mar 08, 2021
+Points this game: 2
+Goals this game: 0
++/-: 3
+Cumulative points: 45"	2020	#00C1A7
+#00C1A7	28	48	"Game 28 - Mar 10, 2021
+Points this game: 3
+Goals this game: 1
++/-: 4
+Cumulative points: 48"	2020	#00C1A7
+#00C1A7	29	51	"Game 29 - Mar 12, 2021
+Points this game: 3
+Goals this game: 1
++/-: 2
+Cumulative points: 51"	2020	#00C1A7
+#00C1A7	30	52	"Game 30 - Mar 13, 2021
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 52"	2020	#00C1A7
+#00C1A7	31	53	"Game 31 - Mar 15, 2021
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 53"	2020	#00C1A7
+#00C1A7	32	56	"Game 32 - Mar 17, 2021
+Points this game: 3
+Goals this game: 1
++/-: 4
+Cumulative points: 56"	2020	#00C1A7
+#00C1A7	33	58	"Game 33 - Mar 18, 2021
+Points this game: 2
+Goals this game: 2
++/-: 2
+Cumulative points: 58"	2020	#00C1A7
+#00C1A7	34	60	"Game 34 - Mar 20, 2021
+Points this game: 2
+Goals this game: 1
++/-: 3
+Cumulative points: 60"	2020	#00C1A7
+#00C1A7	35	62	"Game 35 - Mar 27, 2021
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 62"	2020	#00C1A7
+#00C1A7	36	63	"Game 36 - Mar 29, 2021
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 63"	2020	#00C1A7
+#00C1A7	37	63	"Game 37 - Mar 30, 2021
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 63"	2020	#00C1A7
+#00C1A7	38	64	"Game 38 - Apr 02, 2021
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 64"	2020	#00C1A7
+#00C1A7	39	64	"Game 39 - Apr 05, 2021
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 64"	2020	#00C1A7
+#00C1A7	40	68	"Game 40 - Apr 07, 2021
+Points this game: 4
+Goals this game: 1
++/-: 3
+Cumulative points: 68"	2020	#00C1A7
+#00C1A7	41	69	"Game 41 - Apr 08, 2021
+Points this game: 1
+Goals this game: 0
++/-: 2
+Cumulative points: 69"	2020	#00C1A7
+#00C1A7	42	69	"Game 42 - Apr 10, 2021
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 69"	2020	#00C1A7
+#00C1A7	43	71	"Game 43 - Apr 17, 2021
+Points this game: 2
+Goals this game: 0
++/-: 3
+Cumulative points: 71"	2020	#00C1A7
+#00C1A7	44	74	"Game 44 - Apr 19, 2021
+Points this game: 3
+Goals this game: 1
++/-: 3
+Cumulative points: 74"	2020	#00C1A7
+#00C1A7	45	77	"Game 45 - Apr 21, 2021
+Points this game: 3
+Goals this game: 1
++/-: 1
+Cumulative points: 77"	2020	#00C1A7
+#00C1A7	46	81	"Game 46 - Apr 26, 2021
+Points this game: 4
+Goals this game: 3
++/-: 4
+Cumulative points: 81"	2020	#00C1A7
+#00C1A7	47	84	"Game 47 - Apr 28, 2021
+Points this game: 3
+Goals this game: 0
++/-: 2
+Cumulative points: 84"	2020	#00C1A7
+#00C1A7	48	84	"Game 48 - Apr 29, 2021
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 84"	2020	#00C1A7
+#00C1A7	49	87	"Game 49 - May 01, 2021
+Points this game: 3
+Goals this game: 1
++/-: 4
+Cumulative points: 87"	2020	#00C1A7
+#00C1A7	50	91	"Game 50 - May 03, 2021
+Points this game: 4
+Goals this game: 2
++/-: 4
+Cumulative points: 91"	2020	#00C1A7
+#00C1A7	51	93	"Game 51 - May 04, 2021
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 93"	2020	#00C1A7
+#00C1A7	52	96	"Game 52 - May 06, 2021
+Points this game: 3
+Goals this game: 0
++/-: 0
+Cumulative points: 96"	2020	#00C1A7
+#00C1A7	53	100	"Game 53 - May 08, 2021
+Points this game: 4
+Goals this game: 1
++/-: 3
+Cumulative points: 100"	2020	#00C1A7
+#00C1A7	54	102	"Game 54 - May 10, 2021
+Points this game: 2
+Goals this game: 1
++/-: -1
+Cumulative points: 102"	2020	#00C1A7
+#00C1A7	55	104	"Game 55 - May 12, 2021
+Points this game: 2
+Goals this game: 0
++/-: 0
+Cumulative points: 104"	2020	#00C1A7
+#00C1A7	56	105	"Game 56 - May 15, 2021
+Points this game: 1
+Goals this game: 0
++/-: -2
+Cumulative points: 105"	2020	#00C1A7
+#00BADE	1	2	"Game 1 - Oct 13, 2021
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 2"	2021	#00BADE
+#00BADE	2	5	"Game 2 - Oct 16, 2021
+Points this game: 3
+Goals this game: 3
++/-: 4
+Cumulative points: 5"	2021	#00BADE
+#00BADE	3	8	"Game 3 - Oct 19, 2021
+Points this game: 3
+Goals this game: 1
++/-: 2
+Cumulative points: 8"	2021	#00BADE
+#00BADE	4	11	"Game 4 - Oct 21, 2021
+Points this game: 3
+Goals this game: 2
++/-: 2
+Cumulative points: 11"	2021	#00BADE
+#00BADE	5	13	"Game 5 - Oct 22, 2021
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 13"	2021	#00BADE
+#00BADE	6	15	"Game 6 - Oct 27, 2021
+Points this game: 2
+Goals this game: 1
++/-: 0
+Cumulative points: 15"	2021	#00BADE
+#00BADE	7	16	"Game 7 - Oct 30, 2021
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 16"	2021	#00BADE
+#00BADE	8	17	"Game 8 - Nov 01, 2021
+Points this game: 1
+Goals this game: 0
++/-: 2
+Cumulative points: 17"	2021	#00BADE
+#00BADE	9	19	"Game 9 - Nov 03, 2021
+Points this game: 2
+Goals this game: 0
++/-: 3
+Cumulative points: 19"	2021	#00BADE
+#00BADE	10	22	"Game 10 - Nov 05, 2021
+Points this game: 3
+Goals this game: 1
++/-: 3
+Cumulative points: 22"	2021	#00BADE
+#00BADE	11	23	"Game 11 - Nov 09, 2021
+Points this game: 1
+Goals this game: 1
++/-: -1
+Cumulative points: 23"	2021	#00BADE
+#00BADE	12	24	"Game 12 - Nov 11, 2021
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 24"	2021	#00BADE
+#00BADE	13	25	"Game 13 - Nov 12, 2021
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 25"	2021	#00BADE
+#00BADE	14	27	"Game 14 - Nov 14, 2021
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 27"	2021	#00BADE
+#00BADE	15	29	"Game 15 - Nov 16, 2021
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 29"	2021	#00BADE
+#00BADE	16	30	"Game 16 - Nov 18, 2021
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 30"	2021	#00BADE
+#00BADE	17	32	"Game 17 - Nov 20, 2021
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 32"	2021	#00BADE
+#00BADE	18	32	"Game 18 - Nov 23, 2021
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 32"	2021	#00BADE
+#00BADE	19	36	"Game 19 - Nov 24, 2021
+Points this game: 4
+Goals this game: 2
++/-: 4
+Cumulative points: 36"	2021	#00BADE
+#00BADE	20	36	"Game 20 - Nov 27, 2021
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 36"	2021	#00BADE
+#00BADE	21	40	"Game 21 - Dec 01, 2021
+Points this game: 4
+Goals this game: 1
++/-: 5
+Cumulative points: 40"	2021	#00BADE
+#00BADE	22	42	"Game 22 - Dec 03, 2021
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 42"	2021	#00BADE
+#00BADE	23	42	"Game 23 - Dec 05, 2021
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 42"	2021	#00BADE
+#00BADE	24	43	"Game 24 - Dec 07, 2021
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 43"	2021	#00BADE
+#00BADE	25	45	"Game 25 - Dec 09, 2021
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 45"	2021	#00BADE
+#00BADE	26	45	"Game 26 - Dec 11, 2021
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 45"	2021	#00BADE
+#00BADE	27	45	"Game 27 - Dec 14, 2021
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 45"	2021	#00BADE
+#00BADE	28	47	"Game 28 - Dec 16, 2021
+Points this game: 2
+Goals this game: 0
++/-: 3
+Cumulative points: 47"	2021	#00BADE
+#00BADE	29	49	"Game 29 - Dec 18, 2021
+Points this game: 2
+Goals this game: 1
++/-: 3
+Cumulative points: 49"	2021	#00BADE
+#00BADE	30	50	"Game 30 - Dec 29, 2021
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 50"	2021	#00BADE
+#00BADE	31	52	"Game 31 - Dec 31, 2021
+Points this game: 2
+Goals this game: 2
++/-: -1
+Cumulative points: 52"	2021	#00BADE
+#00BADE	32	53	"Game 32 - Jan 01, 2022
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 53"	2021	#00BADE
+#00BADE	33	53	"Game 33 - Jan 03, 2022
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 53"	2021	#00BADE
+#00BADE	34	53	"Game 34 - Jan 15, 2022
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 53"	2021	#00BADE
+#00BADE	35	53	"Game 35 - Jan 20, 2022
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 53"	2021	#00BADE
+#00BADE	36	55	"Game 36 - Jan 22, 2022
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 55"	2021	#00BADE
+#00BADE	37	57	"Game 37 - Jan 25, 2022
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 57"	2021	#00BADE
+#00BADE	38	58	"Game 38 - Jan 27, 2022
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 58"	2021	#00BADE
+#00BADE	39	58	"Game 39 - Jan 29, 2022
+Points this game: 0
+Goals this game: 0
++/-: 1
+Cumulative points: 58"	2021	#00BADE
+#00BADE	40	59	"Game 40 - Jan 31, 2022
+Points this game: 1
+Goals this game: 1
++/-: 0
+Cumulative points: 59"	2021	#00BADE
+#00BADE	41	60	"Game 41 - Feb 02, 2022
+Points this game: 1
+Goals this game: 1
++/-: 2
+Cumulative points: 60"	2021	#00BADE
+#00BADE	42	60	"Game 42 - Feb 08, 2022
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 60"	2021	#00BADE
+#00BADE	43	61	"Game 43 - Feb 09, 2022
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 61"	2021	#00BADE
+#00BADE	44	63	"Game 44 - Feb 11, 2022
+Points this game: 2
+Goals this game: 0
++/-: 3
+Cumulative points: 63"	2021	#00BADE
+#00BADE	45	64	"Game 45 - Feb 14, 2022
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 64"	2021	#00BADE
+#00BADE	46	66	"Game 46 - Feb 15, 2022
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 66"	2021	#00BADE
+#00BADE	47	68	"Game 47 - Feb 17, 2022
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 68"	2021	#00BADE
+#00BADE	48	71	"Game 48 - Feb 19, 2022
+Points this game: 3
+Goals this game: 1
++/-: 3
+Cumulative points: 71"	2021	#00BADE
+#00BADE	49	71	"Game 49 - Feb 20, 2022
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 71"	2021	#00BADE
+#00BADE	50	73	"Game 50 - Feb 23, 2022
+Points this game: 2
+Goals this game: 2
++/-: -1
+Cumulative points: 73"	2021	#00BADE
+#00BADE	51	75	"Game 51 - Feb 26, 2022
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 75"	2021	#00BADE
+#00BADE	52	75	"Game 52 - Feb 27, 2022
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 75"	2021	#00BADE
+#00BADE	53	77	"Game 53 - Mar 01, 2022
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 77"	2021	#00BADE
+#00BADE	54	79	"Game 54 - Mar 03, 2022
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 79"	2021	#00BADE
+#00BADE	55	79	"Game 55 - Mar 05, 2022
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 79"	2021	#00BADE
+#00BADE	56	79	"Game 56 - Mar 07, 2022
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 79"	2021	#00BADE
+#00BADE	57	81	"Game 57 - Mar 09, 2022
+Points this game: 2
+Goals this game: 1
++/-: 0
+Cumulative points: 81"	2021	#00BADE
+#00BADE	58	83	"Game 58 - Mar 12, 2022
+Points this game: 2
+Goals this game: 2
++/-: 3
+Cumulative points: 83"	2021	#00BADE
+#00BADE	59	85	"Game 59 - Mar 15, 2022
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 85"	2021	#00BADE
+#00BADE	60	87	"Game 60 - Mar 17, 2022
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 87"	2021	#00BADE
+#00BADE	61	90	"Game 61 - Mar 19, 2022
+Points this game: 3
+Goals this game: 1
++/-: 2
+Cumulative points: 90"	2021	#00BADE
+#00BADE	62	91	"Game 62 - Mar 21, 2022
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 91"	2021	#00BADE
+#00BADE	63	93	"Game 63 - Mar 22, 2022
+Points this game: 2
+Goals this game: 0
++/-: -1
+Cumulative points: 93"	2021	#00BADE
+#00BADE	64	95	"Game 64 - Mar 24, 2022
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 95"	2021	#00BADE
+#00BADE	65	97	"Game 65 - Mar 26, 2022
+Points this game: 2
+Goals this game: 0
++/-: -1
+Cumulative points: 97"	2021	#00BADE
+#00BADE	66	98	"Game 66 - Mar 28, 2022
+Points this game: 1
+Goals this game: 1
++/-: 2
+Cumulative points: 98"	2021	#00BADE
+#00BADE	67	100	"Game 67 - Mar 30, 2022
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 100"	2021	#00BADE
+#00BADE	68	102	"Game 68 - Apr 01, 2022
+Points this game: 2
+Goals this game: 2
++/-: 1
+Cumulative points: 102"	2021	#00BADE
+#00BADE	69	105	"Game 69 - Apr 03, 2022
+Points this game: 3
+Goals this game: 1
++/-: 3
+Cumulative points: 105"	2021	#00BADE
+#00BADE	70	106	"Game 70 - Apr 05, 2022
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 106"	2021	#00BADE
+#00BADE	71	108	"Game 71 - Apr 07, 2022
+Points this game: 2
+Goals this game: 1
++/-: 0
+Cumulative points: 108"	2021	#00BADE
+#00BADE	72	108	"Game 72 - Apr 09, 2022
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 108"	2021	#00BADE
+#00BADE	73	108	"Game 73 - Apr 12, 2022
+Points this game: 0
+Goals this game: 0
++/-: 1
+Cumulative points: 108"	2021	#00BADE
+#00BADE	74	110	"Game 74 - Apr 14, 2022
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 110"	2021	#00BADE
+#00BADE	75	110	"Game 75 - Apr 16, 2022
+Points this game: 0
+Goals this game: 0
++/-: 1
+Cumulative points: 110"	2021	#00BADE
+#00BADE	76	113	"Game 76 - Apr 20, 2022
+Points this game: 3
+Goals this game: 1
++/-: 2
+Cumulative points: 113"	2021	#00BADE
+#00BADE	77	116	"Game 77 - Apr 22, 2022
+Points this game: 3
+Goals this game: 0
++/-: 2
+Cumulative points: 116"	2021	#00BADE
+#00BADE	78	118	"Game 78 - Apr 24, 2022
+Points this game: 2
+Goals this game: 0
++/-: -1
+Cumulative points: 118"	2021	#00BADE
+#00BADE	79	122	"Game 79 - Apr 26, 2022
+Points this game: 4
+Goals this game: 1
++/-: 4
+Cumulative points: 122"	2021	#00BADE
+#00BADE	80	123	"Game 80 - Apr 28, 2022
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 123"	2021	#00BADE
+#00A6FF	1	4	"Game 1 - Oct 12, 2022
+Points this game: 4
+Goals this game: 3
++/-: 4
+Cumulative points: 4"	2022	#00A6FF
+#00A6FF	2	5	"Game 2 - Oct 15, 2022
+Points this game: 1
+Goals this game: 1
++/-: 0
+Cumulative points: 5"	2022	#00A6FF
+#00A6FF	3	6	"Game 3 - Oct 18, 2022
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 6"	2022	#00A6FF
+#00A6FF	4	10	"Game 4 - Oct 20, 2022
+Points this game: 4
+Goals this game: 1
++/-: 3
+Cumulative points: 10"	2022	#00A6FF
+#00A6FF	5	10	"Game 5 - Oct 22, 2022
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 10"	2022	#00A6FF
+#00A6FF	6	10	"Game 6 - Oct 24, 2022
+Points this game: 0
+Goals this game: 0
++/-: 1
+Cumulative points: 10"	2022	#00A6FF
+#00A6FF	7	11	"Game 7 - Oct 26, 2022
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 11"	2022	#00A6FF
+#00A6FF	8	15	"Game 8 - Oct 27, 2022
+Points this game: 4
+Goals this game: 3
++/-: 3
+Cumulative points: 15"	2022	#00A6FF
+#00A6FF	9	18	"Game 9 - Oct 29, 2022
+Points this game: 3
+Goals this game: 1
++/-: 1
+Cumulative points: 18"	2022	#00A6FF
+#00A6FF	10	22	"Game 10 - Nov 01, 2022
+Points this game: 4
+Goals this game: 2
++/-: 4
+Cumulative points: 22"	2022	#00A6FF
+#00A6FF	11	24	"Game 11 - Nov 03, 2022
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 24"	2022	#00A6FF
+#00A6FF	12	25	"Game 12 - Nov 05, 2022
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 25"	2022	#00A6FF
+#00A6FF	13	27	"Game 13 - Nov 07, 2022
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 27"	2022	#00A6FF
+#00A6FF	14	29	"Game 14 - Nov 08, 2022
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 29"	2022	#00A6FF
+#00A6FF	15	31	"Game 15 - Nov 10, 2022
+Points this game: 2
+Goals this game: 1
++/-: 0
+Cumulative points: 31"	2022	#00A6FF
+#00A6FF	16	32	"Game 16 - Nov 12, 2022
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 32"	2022	#00A6FF
+#00A6FF	17	32	"Game 17 - Nov 16, 2022
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 32"	2022	#00A6FF
+#00A6FF	18	34	"Game 18 - Nov 19, 2022
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 34"	2022	#00A6FF
+#00A6FF	19	35	"Game 19 - Nov 21, 2022
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 35"	2022	#00A6FF
+#00A6FF	20	35	"Game 20 - Nov 23, 2022
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 35"	2022	#00A6FF
+#00A6FF	21	36	"Game 21 - Nov 26, 2022
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 36"	2022	#00A6FF
+#00A6FF	22	39	"Game 22 - Nov 28, 2022
+Points this game: 3
+Goals this game: 1
++/-: 2
+Cumulative points: 39"	2022	#00A6FF
+#00A6FF	23	41	"Game 23 - Nov 30, 2022
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 41"	2022	#00A6FF
+#00A6FF	24	43	"Game 24 - Dec 01, 2022
+Points this game: 2
+Goals this game: 1
++/-: 0
+Cumulative points: 43"	2022	#00A6FF
+#00A6FF	25	47	"Game 25 - Dec 03, 2022
+Points this game: 4
+Goals this game: 2
++/-: 4
+Cumulative points: 47"	2022	#00A6FF
+#00A6FF	26	48	"Game 26 - Dec 05, 2022
+Points this game: 1
+Goals this game: 1
++/-: -2
+Cumulative points: 48"	2022	#00A6FF
+#00A6FF	27	52	"Game 27 - Dec 07, 2022
+Points this game: 4
+Goals this game: 2
++/-: 4
+Cumulative points: 52"	2022	#00A6FF
+#00A6FF	28	54	"Game 28 - Dec 09, 2022
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 54"	2022	#00A6FF
+#00A6FF	29	55	"Game 29 - Dec 12, 2022
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 55"	2022	#00A6FF
+#00A6FF	30	59	"Game 30 - Dec 13, 2022
+Points this game: 4
+Goals this game: 1
++/-: 5
+Cumulative points: 59"	2022	#00A6FF
+#00A6FF	31	60	"Game 31 - Dec 15, 2022
+Points this game: 1
+Goals this game: 1
++/-: 0
+Cumulative points: 60"	2022	#00A6FF
+#00A6FF	32	62	"Game 32 - Dec 17, 2022
+Points this game: 2
+Goals this game: 1
++/-: 0
+Cumulative points: 62"	2022	#00A6FF
+#00A6FF	33	64	"Game 33 - Dec 19, 2022
+Points this game: 2
+Goals this game: 0
++/-: 0
+Cumulative points: 64"	2022	#00A6FF
+#00A6FF	34	65	"Game 34 - Dec 21, 2022
+Points this game: 1
+Goals this game: 1
++/-: 2
+Cumulative points: 65"	2022	#00A6FF
+#00A6FF	35	66	"Game 35 - Dec 23, 2022
+Points this game: 1
+Goals this game: 1
++/-: -1
+Cumulative points: 66"	2022	#00A6FF
+#00A6FF	36	67	"Game 36 - Dec 27, 2022
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 67"	2022	#00A6FF
+#00A6FF	37	72	"Game 37 - Dec 30, 2022
+Points this game: 5
+Goals this game: 1
++/-: 5
+Cumulative points: 72"	2022	#00A6FF
+#00A6FF	38	72	"Game 38 - Dec 31, 2022
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 72"	2022	#00A6FF
+#00A6FF	39	73	"Game 39 - Jan 03, 2023
+Points this game: 1
+Goals this game: 1
++/-: 0
+Cumulative points: 73"	2022	#00A6FF
+#00A6FF	40	75	"Game 40 - Jan 05, 2023
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 75"	2022	#00A6FF
+#00A6FF	41	76	"Game 41 - Jan 07, 2023
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 76"	2022	#00A6FF
+#00A6FF	42	77	"Game 42 - Jan 09, 2023
+Points this game: 1
+Goals this game: 1
++/-: -4
+Cumulative points: 77"	2022	#00A6FF
+#00A6FF	43	79	"Game 43 - Jan 11, 2023
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 79"	2022	#00A6FF
+#00A6FF	44	82	"Game 44 - Jan 13, 2023
+Points this game: 3
+Goals this game: 2
++/-: 2
+Cumulative points: 82"	2022	#00A6FF
+#00A6FF	45	83	"Game 45 - Jan 14, 2023
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 83"	2022	#00A6FF
+#00A6FF	46	84	"Game 46 - Jan 17, 2023
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 84"	2022	#00A6FF
+#00A6FF	47	86	"Game 47 - Jan 19, 2023
+Points this game: 2
+Goals this game: 1
++/-: -1
+Cumulative points: 86"	2022	#00A6FF
+#00A6FF	48	88	"Game 48 - Jan 21, 2023
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 88"	2022	#00A6FF
+#00A6FF	49	89	"Game 49 - Jan 25, 2023
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 89"	2022	#00A6FF
+#00A6FF	50	92	"Game 50 - Jan 28, 2023
+Points this game: 3
+Goals this game: 1
++/-: 5
+Cumulative points: 92"	2022	#00A6FF
+#00A6FF	51	93	"Game 51 - Feb 07, 2023
+Points this game: 1
+Goals this game: 0
++/-: 2
+Cumulative points: 93"	2022	#00A6FF
+#00A6FF	52	94	"Game 52 - Feb 09, 2023
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 94"	2022	#00A6FF
+#00A6FF	53	97	"Game 53 - Feb 11, 2023
+Points this game: 3
+Goals this game: 1
++/-: 2
+Cumulative points: 97"	2022	#00A6FF
+#00A6FF	54	97	"Game 54 - Feb 12, 2023
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 97"	2022	#00A6FF
+#00A6FF	55	99	"Game 55 - Feb 15, 2023
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 99"	2022	#00A6FF
+#00A6FF	56	101	"Game 56 - Feb 17, 2023
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 101"	2022	#00A6FF
+#00A6FF	57	102	"Game 57 - Feb 19, 2023
+Points this game: 1
+Goals this game: 0
++/-: -2
+Cumulative points: 102"	2022	#00A6FF
+#00A6FF	58	105	"Game 58 - Feb 21, 2023
+Points this game: 3
+Goals this game: 2
++/-: 4
+Cumulative points: 105"	2022	#00A6FF
+#00A6FF	59	109	"Game 59 - Feb 23, 2023
+Points this game: 4
+Goals this game: 2
++/-: 4
+Cumulative points: 109"	2022	#00A6FF
+#00A6FF	60	113	"Game 60 - Feb 25, 2023
+Points this game: 4
+Goals this game: 2
++/-: 4
+Cumulative points: 113"	2022	#00A6FF
+#00A6FF	61	115	"Game 61 - Feb 27, 2023
+Points this game: 2
+Goals this game: 2
++/-: 0
+Cumulative points: 115"	2022	#00A6FF
+#00A6FF	62	118	"Game 62 - Mar 01, 2023
+Points this game: 3
+Goals this game: 2
++/-: 3
+Cumulative points: 118"	2022	#00A6FF
+#00A6FF	63	121	"Game 63 - Mar 03, 2023
+Points this game: 3
+Goals this game: 0
++/-: 1
+Cumulative points: 121"	2022	#00A6FF
+#00A6FF	64	122	"Game 64 - Mar 04, 2023
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 122"	2022	#00A6FF
+#00A6FF	65	124	"Game 65 - Mar 06, 2023
+Points this game: 2
+Goals this game: 2
++/-: 2
+Cumulative points: 124"	2022	#00A6FF
+#00A6FF	66	124	"Game 66 - Mar 09, 2023
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 124"	2022	#00A6FF
+#00A6FF	67	127	"Game 67 - Mar 11, 2023
+Points this game: 3
+Goals this game: 1
++/-: 2
+Cumulative points: 127"	2022	#00A6FF
+#00A6FF	68	129	"Game 68 - Mar 14, 2023
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 129"	2022	#00A6FF
+#00A6FF	69	131	"Game 69 - Mar 16, 2023
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 131"	2022	#00A6FF
+#00A6FF	70	134	"Game 70 - Mar 18, 2023
+Points this game: 3
+Goals this game: 1
++/-: 3
+Cumulative points: 134"	2022	#00A6FF
+#00A6FF	71	136	"Game 71 - Mar 20, 2023
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 136"	2022	#00A6FF
+#00A6FF	72	138	"Game 72 - Mar 22, 2023
+Points this game: 2
+Goals this game: 2
++/-: 2
+Cumulative points: 138"	2022	#00A6FF
+#00A6FF	73	139	"Game 73 - Mar 25, 2023
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 139"	2022	#00A6FF
+#00A6FF	74	140	"Game 74 - Mar 27, 2023
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 140"	2022	#00A6FF
+#00A6FF	75	143	"Game 75 - Mar 28, 2023
+Points this game: 3
+Goals this game: 0
++/-: 3
+Cumulative points: 143"	2022	#00A6FF
+#00A6FF	76	144	"Game 76 - Mar 30, 2023
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 144"	2022	#00A6FF
+#00A6FF	77	146	"Game 77 - Apr 01, 2023
+Points this game: 2
+Goals this game: 1
++/-: 3
+Cumulative points: 146"	2022	#00A6FF
+#00A6FF	78	147	"Game 78 - Apr 04, 2023
+Points this game: 1
+Goals this game: 0
++/-: 3
+Cumulative points: 147"	2022	#00A6FF
+#00A6FF	79	148	"Game 79 - Apr 05, 2023
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 148"	2022	#00A6FF
+#00A6FF	80	151	"Game 80 - Apr 08, 2023
+Points this game: 3
+Goals this game: 2
++/-: 4
+Cumulative points: 151"	2022	#00A6FF
+#00A6FF	81	152	"Game 81 - Apr 11, 2023
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 152"	2022	#00A6FF
+#00A6FF	82	153	"Game 82 - Apr 13, 2023
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 153"	2022	#00A6FF
+#B385FF	1	1	"Game 1 - Oct 11, 2023
+Points this game: 1
+Goals this game: 0
++/-: -2
+Cumulative points: 1"	2023	#B385FF
+#B385FF	2	3	"Game 2 - Oct 14, 2023
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 3"	2023	#B385FF
+#B385FF	3	5	"Game 3 - Oct 17, 2023
+Points this game: 2
+Goals this game: 1
++/-: 3
+Cumulative points: 5"	2023	#B385FF
+#B385FF	4	6	"Game 4 - Oct 19, 2023
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 6"	2023	#B385FF
+#B385FF	5	8	"Game 5 - Oct 21, 2023
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 8"	2023	#B385FF
+#B385FF	6	9	"Game 6 - Oct 29, 2023
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 9"	2023	#B385FF
+#B385FF	7	9	"Game 7 - Nov 02, 2023
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 9"	2023	#B385FF
+#B385FF	8	10	"Game 8 - Nov 04, 2023
+Points this game: 1
+Goals this game: 0
++/-: -2
+Cumulative points: 10"	2023	#B385FF
+#B385FF	9	10	"Game 9 - Nov 06, 2023
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 10"	2023	#B385FF
+#B385FF	10	10	"Game 10 - Nov 09, 2023
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 10"	2023	#B385FF
+#B385FF	11	10	"Game 11 - Nov 11, 2023
+Points this game: 0
+Goals this game: 0
++/-: 1
+Cumulative points: 10"	2023	#B385FF
+#B385FF	12	12	"Game 12 - Nov 13, 2023
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 12"	2023	#B385FF
+#B385FF	13	13	"Game 13 - Nov 15, 2023
+Points this game: 1
+Goals this game: 1
++/-: 3
+Cumulative points: 13"	2023	#B385FF
+#B385FF	14	13	"Game 14 - Nov 18, 2023
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 13"	2023	#B385FF
+#B385FF	15	15	"Game 15 - Nov 20, 2023
+Points this game: 2
+Goals this game: 2
++/-: -1
+Cumulative points: 15"	2023	#B385FF
+#B385FF	16	16	"Game 16 - Nov 22, 2023
+Points this game: 1
+Goals this game: 0
++/-: -2
+Cumulative points: 16"	2023	#B385FF
+#B385FF	17	20	"Game 17 - Nov 24, 2023
+Points this game: 4
+Goals this game: 0
++/-: 4
+Cumulative points: 20"	2023	#B385FF
+#B385FF	18	25	"Game 18 - Nov 26, 2023
+Points this game: 5
+Goals this game: 1
++/-: 4
+Cumulative points: 25"	2023	#B385FF
+#B385FF	19	28	"Game 19 - Nov 28, 2023
+Points this game: 3
+Goals this game: 1
++/-: 1
+Cumulative points: 28"	2023	#B385FF
+#B385FF	20	29	"Game 20 - Nov 30, 2023
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 29"	2023	#B385FF
+#B385FF	21	32	"Game 21 - Dec 06, 2023
+Points this game: 3
+Goals this game: 0
++/-: 3
+Cumulative points: 32"	2023	#B385FF
+#B385FF	22	34	"Game 22 - Dec 08, 2023
+Points this game: 2
+Goals this game: 1
++/-: 3
+Cumulative points: 34"	2023	#B385FF
+#B385FF	23	36	"Game 23 - Dec 10, 2023
+Points this game: 2
+Goals this game: 1
++/-: 3
+Cumulative points: 36"	2023	#B385FF
+#B385FF	24	38	"Game 24 - Dec 12, 2023
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 38"	2023	#B385FF
+#B385FF	25	40	"Game 25 - Dec 14, 2023
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 40"	2023	#B385FF
+#B385FF	26	41	"Game 26 - Dec 16, 2023
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 41"	2023	#B385FF
+#B385FF	27	41	"Game 27 - Dec 19, 2023
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 41"	2023	#B385FF
+#B385FF	28	43	"Game 28 - Dec 21, 2023
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 43"	2023	#B385FF
+#B385FF	29	44	"Game 29 - Dec 22, 2023
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 44"	2023	#B385FF
+#B385FF	30	45	"Game 30 - Dec 28, 2023
+Points this game: 1
+Goals this game: 0
++/-: 3
+Cumulative points: 45"	2023	#B385FF
+#B385FF	31	47	"Game 31 - Dec 30, 2023
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 47"	2023	#B385FF
+#B385FF	32	48	"Game 32 - Dec 31, 2023
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 48"	2023	#B385FF
+#B385FF	33	53	"Game 33 - Jan 02, 2024
+Points this game: 5
+Goals this game: 1
++/-: 4
+Cumulative points: 53"	2023	#B385FF
+#B385FF	34	54	"Game 34 - Jan 06, 2024
+Points this game: 1
+Goals this game: 0
++/-: 3
+Cumulative points: 54"	2023	#B385FF
+#B385FF	35	55	"Game 35 - Jan 09, 2024
+Points this game: 1
+Goals this game: 1
++/-: 0
+Cumulative points: 55"	2023	#B385FF
+#B385FF	36	56	"Game 36 - Jan 11, 2024
+Points this game: 1
+Goals this game: 1
++/-: 2
+Cumulative points: 56"	2023	#B385FF
+#B385FF	37	57	"Game 37 - Jan 13, 2024
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 57"	2023	#B385FF
+#B385FF	38	58	"Game 38 - Jan 16, 2024
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 58"	2023	#B385FF
+#B385FF	39	59	"Game 39 - Jan 18, 2024
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 59"	2023	#B385FF
+#B385FF	40	59	"Game 40 - Jan 20, 2024
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 59"	2023	#B385FF
+#B385FF	41	60	"Game 41 - Jan 23, 2024
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 60"	2023	#B385FF
+#B385FF	42	63	"Game 42 - Jan 25, 2024
+Points this game: 3
+Goals this game: 2
++/-: 3
+Cumulative points: 63"	2023	#B385FF
+#B385FF	43	67	"Game 43 - Jan 27, 2024
+Points this game: 4
+Goals this game: 1
++/-: 4
+Cumulative points: 67"	2023	#B385FF
+#B385FF	44	68	"Game 44 - Feb 06, 2024
+Points this game: 1
+Goals this game: 1
++/-: -1
+Cumulative points: 68"	2023	#B385FF
+#B385FF	45	71	"Game 45 - Feb 09, 2024
+Points this game: 3
+Goals this game: 0
++/-: 3
+Cumulative points: 71"	2023	#B385FF
+#B385FF	46	71	"Game 46 - Feb 10, 2024
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 71"	2023	#B385FF
+#B385FF	47	77	"Game 47 - Feb 13, 2024
+Points this game: 6
+Goals this game: 0
++/-: 6
+Cumulative points: 77"	2023	#B385FF
+#B385FF	48	80	"Game 48 - Feb 15, 2024
+Points this game: 3
+Goals this game: 0
++/-: -2
+Cumulative points: 80"	2023	#B385FF
+#B385FF	49	81	"Game 49 - Feb 17, 2024
+Points this game: 1
+Goals this game: 0
++/-: 3
+Cumulative points: 81"	2023	#B385FF
+#B385FF	50	83	"Game 50 - Feb 19, 2024
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 83"	2023	#B385FF
+#B385FF	51	85	"Game 51 - Feb 21, 2024
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 85"	2023	#B385FF
+#B385FF	52	87	"Game 52 - Feb 23, 2024
+Points this game: 2
+Goals this game: 0
++/-: -2
+Cumulative points: 87"	2023	#B385FF
+#B385FF	53	89	"Game 53 - Feb 24, 2024
+Points this game: 2
+Goals this game: 0
++/-: -1
+Cumulative points: 89"	2023	#B385FF
+#B385FF	54	91	"Game 54 - Feb 26, 2024
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 91"	2023	#B385FF
+#B385FF	55	94	"Game 55 - Feb 28, 2024
+Points this game: 3
+Goals this game: 1
++/-: 2
+Cumulative points: 94"	2023	#B385FF
+#B385FF	56	95	"Game 56 - Mar 02, 2024
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 95"	2023	#B385FF
+#B385FF	57	97	"Game 57 - Mar 03, 2024
+Points this game: 2
+Goals this game: 1
++/-: 3
+Cumulative points: 97"	2023	#B385FF
+#B385FF	58	99	"Game 58 - Mar 05, 2024
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 99"	2023	#B385FF
+#B385FF	59	100	"Game 59 - Mar 07, 2024
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 100"	2023	#B385FF
+#B385FF	60	100	"Game 60 - Mar 09, 2024
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 100"	2023	#B385FF
+#B385FF	61	103	"Game 61 - Mar 10, 2024
+Points this game: 3
+Goals this game: 1
++/-: 3
+Cumulative points: 103"	2023	#B385FF
+#B385FF	62	106	"Game 62 - Mar 13, 2024
+Points this game: 3
+Goals this game: 1
++/-: 5
+Cumulative points: 106"	2023	#B385FF
+#B385FF	63	106	"Game 63 - Mar 16, 2024
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 106"	2023	#B385FF
+#B385FF	64	108	"Game 64 - Mar 19, 2024
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 108"	2023	#B385FF
+#B385FF	65	112	"Game 65 - Mar 21, 2024
+Points this game: 4
+Goals this game: 0
++/-: 3
+Cumulative points: 112"	2023	#B385FF
+#B385FF	66	115	"Game 66 - Mar 23, 2024
+Points this game: 3
+Goals this game: 0
++/-: 1
+Cumulative points: 115"	2023	#B385FF
+#B385FF	67	117	"Game 67 - Mar 24, 2024
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 117"	2023	#B385FF
+#B385FF	68	119	"Game 68 - Mar 26, 2024
+Points this game: 2
+Goals this game: 0
++/-: 0
+Cumulative points: 119"	2023	#B385FF
+#B385FF	69	122	"Game 69 - Mar 28, 2024
+Points this game: 3
+Goals this game: 1
++/-: 4
+Cumulative points: 122"	2023	#B385FF
+#B385FF	70	125	"Game 70 - Mar 30, 2024
+Points this game: 3
+Goals this game: 2
++/-: 3
+Cumulative points: 125"	2023	#B385FF
+#B385FF	71	126	"Game 71 - Apr 01, 2024
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 126"	2023	#B385FF
+#B385FF	72	126	"Game 72 - Apr 03, 2024
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 126"	2023	#B385FF
+#B385FF	73	128	"Game 73 - Apr 05, 2024
+Points this game: 2
+Goals this game: 2
++/-: 2
+Cumulative points: 128"	2023	#B385FF
+#B385FF	74	130	"Game 74 - Apr 06, 2024
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 130"	2023	#B385FF
+#B385FF	75	132	"Game 75 - Apr 15, 2024
+Points this game: 2
+Goals this game: 1
++/-: 3
+Cumulative points: 132"	2023	#B385FF
+#B385FF	76	132	"Game 76 - Apr 17, 2024
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 132"	2023	#B385FF
+#EF67EB	1	0	"Game 1 - Oct 09, 2024
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 0"	2024	#EF67EB
+#EF67EB	2	1	"Game 2 - Oct 12, 2024
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 1"	2024	#EF67EB
+#EF67EB	3	2	"Game 3 - Oct 13, 2024
+Points this game: 1
+Goals this game: 0
++/-: -2
+Cumulative points: 2"	2024	#EF67EB
+#EF67EB	4	4	"Game 4 - Oct 15, 2024
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 4"	2024	#EF67EB
+#EF67EB	5	5	"Game 5 - Oct 17, 2024
+Points this game: 1
+Goals this game: 1
++/-: 2
+Cumulative points: 5"	2024	#EF67EB
+#EF67EB	6	6	"Game 6 - Oct 19, 2024
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 6"	2024	#EF67EB
+#EF67EB	7	8	"Game 7 - Oct 22, 2024
+Points this game: 2
+Goals this game: 2
++/-: 1
+Cumulative points: 8"	2024	#EF67EB
+#EF67EB	8	8	"Game 8 - Oct 25, 2024
+Points this game: 0
+Goals this game: 0
++/-: 2
+Cumulative points: 8"	2024	#EF67EB
+#EF67EB	9	10	"Game 9 - Oct 27, 2024
+Points this game: 2
+Goals this game: 0
++/-: 3
+Cumulative points: 10"	2024	#EF67EB
+#EF67EB	10	10	"Game 10 - Oct 28, 2024
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 10"	2024	#EF67EB
+#EF67EB	11	10	"Game 11 - Nov 06, 2024
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 10"	2024	#EF67EB
+#EF67EB	12	13	"Game 12 - Nov 09, 2024
+Points this game: 3
+Goals this game: 1
++/-: 2
+Cumulative points: 13"	2024	#EF67EB
+#EF67EB	13	17	"Game 13 - Nov 12, 2024
+Points this game: 4
+Goals this game: 1
++/-: 2
+Cumulative points: 17"	2024	#EF67EB
+#EF67EB	14	19	"Game 14 - Nov 14, 2024
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 19"	2024	#EF67EB
+#EF67EB	15	21	"Game 15 - Nov 16, 2024
+Points this game: 2
+Goals this game: 1
++/-: -2
+Cumulative points: 21"	2024	#EF67EB
+#EF67EB	16	21	"Game 16 - Nov 18, 2024
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 21"	2024	#EF67EB
+#EF67EB	17	24	"Game 17 - Nov 19, 2024
+Points this game: 3
+Goals this game: 2
++/-: 4
+Cumulative points: 24"	2024	#EF67EB
+#EF67EB	18	25	"Game 18 - Nov 21, 2024
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 25"	2024	#EF67EB
+#EF67EB	19	28	"Game 19 - Nov 23, 2024
+Points this game: 3
+Goals this game: 2
++/-: 3
+Cumulative points: 28"	2024	#EF67EB
+#EF67EB	20	30	"Game 20 - Nov 29, 2024
+Points this game: 2
+Goals this game: 1
++/-: -1
+Cumulative points: 30"	2024	#EF67EB
+#EF67EB	21	31	"Game 21 - Nov 30, 2024
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 31"	2024	#EF67EB
+#EF67EB	22	31	"Game 22 - Dec 03, 2024
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 31"	2024	#EF67EB
+#EF67EB	23	35	"Game 23 - Dec 05, 2024
+Points this game: 4
+Goals this game: 0
++/-: 3
+Cumulative points: 35"	2024	#EF67EB
+#EF67EB	24	37	"Game 24 - Dec 07, 2024
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 37"	2024	#EF67EB
+#EF67EB	25	38	"Game 25 - Dec 10, 2024
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 38"	2024	#EF67EB
+#EF67EB	26	40	"Game 26 - Dec 12, 2024
+Points this game: 2
+Goals this game: 0
++/-: 3
+Cumulative points: 40"	2024	#EF67EB
+#EF67EB	27	41	"Game 27 - Dec 14, 2024
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 41"	2024	#EF67EB
+#EF67EB	28	44	"Game 28 - Dec 16, 2024
+Points this game: 3
+Goals this game: 0
++/-: -1
+Cumulative points: 44"	2024	#EF67EB
+#EF67EB	29	45	"Game 29 - Dec 19, 2024
+Points this game: 1
+Goals this game: 1
++/-: 2
+Cumulative points: 45"	2024	#EF67EB
+#EF67EB	30	48	"Game 30 - Dec 21, 2024
+Points this game: 3
+Goals this game: 0
++/-: 3
+Cumulative points: 48"	2024	#EF67EB
+#EF67EB	31	49	"Game 31 - Dec 22, 2024
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 49"	2024	#EF67EB
+#EF67EB	32	50	"Game 32 - Dec 28, 2024
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 50"	2024	#EF67EB
+#EF67EB	33	52	"Game 33 - Dec 29, 2024
+Points this game: 2
+Goals this game: 0
++/-: -1
+Cumulative points: 52"	2024	#EF67EB
+#EF67EB	34	54	"Game 34 - Dec 31, 2024
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 54"	2024	#EF67EB
+#EF67EB	35	54	"Game 35 - Jan 03, 2025
+Points this game: 0
+Goals this game: 0
++/-: 1
+Cumulative points: 54"	2024	#EF67EB
+#EF67EB	36	54	"Game 36 - Jan 04, 2025
+Points this game: 0
+Goals this game: 0
++/-: 1
+Cumulative points: 54"	2024	#EF67EB
+#EF67EB	37	55	"Game 37 - Jan 07, 2025
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 55"	2024	#EF67EB
+#EF67EB	38	58	"Game 38 - Jan 09, 2025
+Points this game: 3
+Goals this game: 0
++/-: 1
+Cumulative points: 58"	2024	#EF67EB
+#EF67EB	39	58	"Game 39 - Jan 11, 2025
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 58"	2024	#EF67EB
+#EF67EB	40	59	"Game 40 - Jan 13, 2025
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 59"	2024	#EF67EB
+#EF67EB	41	62	"Game 41 - Jan 15, 2025
+Points this game: 3
+Goals this game: 2
++/-: 2
+Cumulative points: 62"	2024	#EF67EB
+#EF67EB	42	64	"Game 42 - Jan 16, 2025
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 64"	2024	#EF67EB
+#EF67EB	43	65	"Game 43 - Jan 18, 2025
+Points this game: 1
+Goals this game: 0
++/-: 2
+Cumulative points: 65"	2024	#EF67EB
+#EF67EB	44	66	"Game 44 - Jan 27, 2025
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 66"	2024	#EF67EB
+#EF67EB	45	67	"Game 45 - Jan 30, 2025
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 67"	2024	#EF67EB
+#EF67EB	46	67	"Game 46 - Feb 01, 2025
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 67"	2024	#EF67EB
+#EF67EB	47	70	"Game 47 - Feb 04, 2025
+Points this game: 3
+Goals this game: 1
++/-: 2
+Cumulative points: 70"	2024	#EF67EB
+#EF67EB	48	71	"Game 48 - Feb 05, 2025
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 71"	2024	#EF67EB
+#EF67EB	49	71	"Game 49 - Feb 07, 2025
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 71"	2024	#EF67EB
+#EF67EB	50	71	"Game 50 - Feb 22, 2025
+Points this game: 0
+Goals this game: 0
++/-: -3
+Cumulative points: 71"	2024	#EF67EB
+#EF67EB	51	72	"Game 51 - Feb 23, 2025
+Points this game: 1
+Goals this game: 0
++/-: -2
+Cumulative points: 72"	2024	#EF67EB
+#EF67EB	52	73	"Game 52 - Feb 25, 2025
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 73"	2024	#EF67EB
+#EF67EB	53	74	"Game 53 - Feb 27, 2025
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 74"	2024	#EF67EB
+#EF67EB	54	75	"Game 54 - Mar 01, 2025
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 75"	2024	#EF67EB
+#EF67EB	55	77	"Game 55 - Mar 04, 2025
+Points this game: 2
+Goals this game: 1
++/-: 0
+Cumulative points: 77"	2024	#EF67EB
+#EF67EB	56	79	"Game 56 - Mar 06, 2025
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 79"	2024	#EF67EB
+#EF67EB	57	81	"Game 57 - Mar 08, 2025
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 81"	2024	#EF67EB
+#EF67EB	58	82	"Game 58 - Mar 10, 2025
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 82"	2024	#EF67EB
+#EF67EB	59	84	"Game 59 - Mar 13, 2025
+Points this game: 2
+Goals this game: 0
++/-: 2
+Cumulative points: 84"	2024	#EF67EB
+#EF67EB	60	85	"Game 60 - Mar 14, 2025
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 85"	2024	#EF67EB
+#EF67EB	61	86	"Game 61 - Mar 16, 2025
+Points this game: 1
+Goals this game: 1
++/-: 2
+Cumulative points: 86"	2024	#EF67EB
+#EF67EB	62	89	"Game 62 - Mar 18, 2025
+Points this game: 3
+Goals this game: 1
++/-: 4
+Cumulative points: 89"	2024	#EF67EB
+#EF67EB	63	90	"Game 63 - Mar 20, 2025
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 90"	2024	#EF67EB
+#EF67EB	64	93	"Game 64 - Apr 09, 2025
+Points this game: 3
+Goals this game: 0
++/-: 3
+Cumulative points: 93"	2024	#EF67EB
+#EF67EB	65	97	"Game 65 - Apr 11, 2025
+Points this game: 4
+Goals this game: 0
++/-: 4
+Cumulative points: 97"	2024	#EF67EB
+#EF67EB	66	99	"Game 66 - Apr 13, 2025
+Points this game: 2
+Goals this game: 0
++/-: 3
+Cumulative points: 99"	2024	#EF67EB
+#EF67EB	67	100	"Game 67 - Apr 16, 2025
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 100"	2024	#EF67EB
+#FF63B6	1	2	"Game 1 - Oct 08, 2025
+Points this game: 2
+Goals this game: 0
++/-: 3
+Cumulative points: 2"	2025	#FF63B6
+#FF63B6	2	3	"Game 2 - Oct 11, 2025
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 3"	2025	#FF63B6
+#FF63B6	3	4	"Game 3 - Oct 14, 2025
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 4"	2025	#FF63B6
+#FF63B6	4	5	"Game 4 - Oct 16, 2025
+Points this game: 1
+Goals this game: 0
++/-: -2
+Cumulative points: 5"	2025	#FF63B6
+#FF63B6	5	7	"Game 5 - Oct 18, 2025
+Points this game: 2
+Goals this game: 0
++/-: -1
+Cumulative points: 7"	2025	#FF63B6
+#FF63B6	6	7	"Game 6 - Oct 19, 2025
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 7"	2025	#FF63B6
+#FF63B6	7	8	"Game 7 - Oct 21, 2025
+Points this game: 1
+Goals this game: 1
++/-: 2
+Cumulative points: 8"	2025	#FF63B6
+#FF63B6	8	11	"Game 8 - Oct 23, 2025
+Points this game: 3
+Goals this game: 0
++/-: 2
+Cumulative points: 11"	2025	#FF63B6
+#FF63B6	9	11	"Game 9 - Oct 25, 2025
+Points this game: 0
+Goals this game: 0
++/-: 0
+Cumulative points: 11"	2025	#FF63B6
+#FF63B6	10	12	"Game 10 - Oct 26, 2025
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 12"	2025	#FF63B6
+#FF63B6	11	14	"Game 11 - Oct 28, 2025
+Points this game: 2
+Goals this game: 2
++/-: 2
+Cumulative points: 14"	2025	#FF63B6
+#FF63B6	12	14	"Game 12 - Oct 30, 2025
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 14"	2025	#FF63B6
+#FF63B6	13	17	"Game 13 - Nov 01, 2025
+Points this game: 3
+Goals this game: 0
++/-: 3
+Cumulative points: 17"	2025	#FF63B6
+#FF63B6	14	19	"Game 14 - Nov 03, 2025
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 19"	2025	#FF63B6
+#FF63B6	15	21	"Game 15 - Nov 04, 2025
+Points this game: 2
+Goals this game: 1
++/-: 1
+Cumulative points: 21"	2025	#FF63B6
+#FF63B6	16	22	"Game 16 - Nov 08, 2025
+Points this game: 1
+Goals this game: 1
++/-: -2
+Cumulative points: 22"	2025	#FF63B6
+#FF63B6	17	24	"Game 17 - Nov 10, 2025
+Points this game: 2
+Goals this game: 2
++/-: 2
+Cumulative points: 24"	2025	#FF63B6
+#FF63B6	18	25	"Game 18 - Nov 12, 2025
+Points this game: 1
+Goals this game: 0
++/-: 1
+Cumulative points: 25"	2025	#FF63B6
+#FF63B6	19	27	"Game 19 - Nov 13, 2025
+Points this game: 2
+Goals this game: 0
++/-: 0
+Cumulative points: 27"	2025	#FF63B6
+#FF63B6	20	30	"Game 20 - Nov 15, 2025
+Points this game: 3
+Goals this game: 2
++/-: 3
+Cumulative points: 30"	2025	#FF63B6
+#FF63B6	21	30	"Game 21 - Nov 17, 2025
+Points this game: 0
+Goals this game: 0
++/-: -2
+Cumulative points: 30"	2025	#FF63B6
+#FF63B6	22	32	"Game 22 - Nov 19, 2025
+Points this game: 2
+Goals this game: 0
++/-: -1
+Cumulative points: 32"	2025	#FF63B6
+#FF63B6	23	32	"Game 23 - Nov 20, 2025
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 32"	2025	#FF63B6
+#FF63B6	24	33	"Game 24 - Nov 22, 2025
+Points this game: 1
+Goals this game: 1
++/-: 1
+Cumulative points: 33"	2025	#FF63B6
+#FF63B6	25	34	"Game 25 - Nov 25, 2025
+Points this game: 1
+Goals this game: 0
++/-: -1
+Cumulative points: 34"	2025	#FF63B6
+#FF63B6	26	36	"Game 26 - Nov 29, 2025
+Points this game: 2
+Goals this game: 1
++/-: 3
+Cumulative points: 36"	2025	#FF63B6
+#FF63B6	27	36	"Game 27 - Dec 02, 2025
+Points this game: 0
+Goals this game: 0
++/-: -1
+Cumulative points: 36"	2025	#FF63B6
+#FF63B6	28	40	"Game 28 - Dec 04, 2025
+Points this game: 4
+Goals this game: 3
++/-: 3
+Cumulative points: 40"	2025	#FF63B6
+#FF63B6	29	42	"Game 29 - Dec 06, 2025
+Points this game: 2
+Goals this game: 0
++/-: 1
+Cumulative points: 42"	2025	#FF63B6
+#FF63B6	30	44	"Game 30 - Dec 09, 2025
+Points this game: 2
+Goals this game: 2
++/-: 1
+Cumulative points: 44"	2025	#FF63B6
+#FF63B6	31	48	"Game 31 - Dec 11, 2025
+Points this game: 4
+Goals this game: 0
++/-: 4
+Cumulative points: 48"	2025	#FF63B6
+#FF63B6	32	51	"Game 32 - Dec 13, 2025
+Points this game: 3
+Goals this game: 2
++/-: 3
+Cumulative points: 51"	2025	#FF63B6
+#FF63B6	33	52	"Game 33 - Dec 14, 2025
+Points this game: 1
+Goals this game: 0
++/-: 0
+Cumulative points: 52"	2025	#FF63B6
+#FF63B6	34	56	"Game 34 - Dec 16, 2025
+Points this game: 4
+Goals this game: 2
++/-: 3
+Cumulative points: 56"	2025	#FF63B6
+#FF63B6	35	58	"Game 35 - Dec 18, 2025
+Points this game: 2
+Goals this game: 1
++/-: 2
+Cumulative points: 58"	2025	#FF63B6

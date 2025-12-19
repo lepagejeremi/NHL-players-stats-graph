@@ -1,0 +1,379 @@
+{
+ "geoms": {
+ "geom1_line_plot1": {
+ "geom": "line",
+"classed": "geom1_line_plot1",
+"aes": {
+ "x": "gameNumber",
+"y": "cum_points",
+"colour": "season",
+"group": "season",
+"showSelected1": "season" 
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"size":        1,
+"showSelected": "season",
+"help_showSelected": "season" 
+},
+"types": {
+ "colour": "rgb",
+"x": "numeric",
+"y": "numeric",
+"group": "character",
+"showSelected1": "factor",
+"PANEL": "integer" 
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1",
+"group" 
+],
+"subset_order": [
+ "showSelected1" 
+],
+"chunks": 1,
+"total": 1 
+},
+"geom2_point_plot1": {
+ "geom": "point",
+"classed": "geom2_point_plot1",
+"aes": {
+ "x": "gameNumber",
+"y": "cum_points",
+"colour": "season",
+"showSelected1": "season" 
+},
+"params": {
+ "na.rm": false,
+"na.rm": false,
+"size":        2,
+"showSelected": "season",
+"help_showSelected": "season" 
+},
+"types": {
+ "colour": "rgb",
+"x": "numeric",
+"y": "numeric",
+"showSelected1": "factor",
+"PANEL": "integer",
+"group": "character",
+"fill": "rgb" 
+},
+"chunk_order": [],
+"nest_order": [
+ "showSelected1" 
+],
+"subset_order": [
+ "showSelected1" 
+],
+"chunks": 1,
+"total": 1 
+} 
+},
+"selectors": {
+ "season": {
+ "type": "multiple",
+"legend": true,
+"is.variable.value": false,
+"showSelected": true,
+"selected": [ "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025" ],
+"levels": [ "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025" ],
+"update": [
+ "geom1_line_plot1",
+"geom2_point_plot1" 
+] 
+} 
+},
+"plots": {
+ "plot1": {
+ "panel_margin_lines":     0.27,
+"legend": {
+ "season": {
+ "guide": "legend",
+"geoms": [ "path", "point" ],
+"title": "season",
+"class": "season",
+"selector": "season",
+"is_discrete": true,
+"legend_type": "colour",
+"text_size": "9.6pt",
+"title_size": "12pt",
+"entries": [
+ {
+ "pathcolour": "#FF63B6",
+"pathsize":        1,
+"pathlinetype":        1,
+"label": "2025",
+"pointcolour": "#FF63B6",
+"pointshape":       19,
+"pointsize":        2,
+"pointstroke":      0.5 
+},
+{
+ "pathcolour": "#EF67EB",
+"pathsize":        1,
+"pathlinetype":        1,
+"label": "2024",
+"pointcolour": "#EF67EB",
+"pointshape":       19,
+"pointsize":        2,
+"pointstroke":      0.5 
+},
+{
+ "pathcolour": "#B385FF",
+"pathsize":        1,
+"pathlinetype":        1,
+"label": "2023",
+"pointcolour": "#B385FF",
+"pointshape":       19,
+"pointsize":        2,
+"pointstroke":      0.5 
+},
+{
+ "pathcolour": "#00A6FF",
+"pathsize":        1,
+"pathlinetype":        1,
+"label": "2022",
+"pointcolour": "#00A6FF",
+"pointshape":       19,
+"pointsize":        2,
+"pointstroke":      0.5 
+},
+{
+ "pathcolour": "#00BADE",
+"pathsize":        1,
+"pathlinetype":        1,
+"label": "2021",
+"pointcolour": "#00BADE",
+"pointshape":       19,
+"pointsize":        2,
+"pointstroke":      0.5 
+},
+{
+ "pathcolour": "#00C1A7",
+"pathsize":        1,
+"pathlinetype":        1,
+"label": "2020",
+"pointcolour": "#00C1A7",
+"pointshape":       19,
+"pointsize":        2,
+"pointstroke":      0.5 
+},
+{
+ "pathcolour": "#00BD5C",
+"pathsize":        1,
+"pathlinetype":        1,
+"label": "2019",
+"pointcolour": "#00BD5C",
+"pointshape":       19,
+"pointsize":        2,
+"pointstroke":      0.5 
+},
+{
+ "pathcolour": "#64B200",
+"pathsize":        1,
+"pathlinetype":        1,
+"label": "2018",
+"pointcolour": "#64B200",
+"pointshape":       19,
+"pointsize":        2,
+"pointstroke":      0.5 
+},
+{
+ "pathcolour": "#AEA200",
+"pathsize":        1,
+"pathlinetype":        1,
+"label": "2017",
+"pointcolour": "#AEA200",
+"pointshape":       19,
+"pointsize":        2,
+"pointstroke":      0.5 
+},
+{
+ "pathcolour": "#DB8E00",
+"pathsize":        1,
+"pathlinetype":        1,
+"label": "2016",
+"pointcolour": "#DB8E00",
+"pointshape":       19,
+"pointsize":        2,
+"pointstroke":      0.5 
+},
+{
+ "pathcolour": "#F8766D",
+"pathsize":        1,
+"pathlinetype":        1,
+"label": "2015",
+"pointcolour": "#F8766D",
+"pointshape":       19,
+"pointsize":        2,
+"pointstroke":      0.5 
+} 
+] 
+} 
+},
+"strips": {
+ "top": [
+ "" 
+],
+"right": [
+ "" 
+],
+"n": {
+ "top":        0,
+"right":        0 
+} 
+},
+"layout": {
+ "PANEL": [ 1 ],
+"ROW": [ 1 ],
+"COL": [ 1 ],
+"SCALE_X": [ 1 ],
+"SCALE_Y": [ 1 ],
+"AXIS_X": [ true ],
+"AXIS_Y": [ true ],
+"coord_fixed": [ false ],
+"width_proportion": [        1 ],
+"height_proportion": [        1 ] 
+},
+"panel_background": {
+ "fill": "#FFFFFF",
+"colour": "transparent",
+"size":      0.5,
+"linetype":        1 
+},
+"panel_border": [],
+"grid_major": {
+ "colour": "#000000",
+"size":      0.5,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [
+        0,
+      20,
+      40,
+      60,
+      80 
+] 
+],
+"y": [
+ [
+        0,
+      50,
+     100,
+     150 
+] 
+] 
+} 
+},
+"grid_minor": {
+ "colour": "#000000",
+"size":      0.5,
+"linetype":        1,
+"lineend": "butt",
+"loc": {
+ "x": [
+ [
+        0,
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80 
+] 
+],
+"y": [
+ [
+        0,
+      25,
+      50,
+      75,
+     100,
+     125,
+     150 
+] 
+] 
+} 
+},
+"axis1": {
+ "x": [
+        0,
+      20,
+      40,
+      60,
+      80 
+],
+"xlab": [
+ "0",
+"20",
+"40",
+"60",
+"80" 
+],
+"xrange": [    -3.05,    86.05 ],
+"xline": false,
+"xticks": true,
+"y": [
+        0,
+      50,
+     100,
+     150 
+],
+"ylab": [
+ "0",
+"50",
+"100",
+"150" 
+],
+"yrange": [    -7.65,   160.65 ],
+"yline": false,
+"yticks": true 
+},
+"xtitle": "gameNumber",
+"strip_text_xsize": "12pt",
+"xsize": "12pt",
+"xangle":        0,
+"xanchor": "middle",
+"ytitle": "cum_points",
+"strip_text_ysize": "12pt",
+"ysize": "12pt",
+"yangle":        0,
+"yanchor": "end",
+"xlabs": [
+ "0",
+"20",
+"40",
+"60",
+"80" 
+],
+"ylabs": [
+ "0",
+"50",
+"100",
+"150" 
+],
+"title_size": "14.4pt",
+"options": {
+ "width":      400,
+"height":      400 
+},
+"span": {
+ "rowspan": null,
+"colspan": null,
+"last_in_row": null 
+},
+"geoms": [
+ "geom1_line_plot1",
+"geom2_point_plot1" 
+] 
+} 
+},
+"title": "Test" 
+}
