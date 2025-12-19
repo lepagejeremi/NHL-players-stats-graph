@@ -1,5 +1,7 @@
 # NHL players – game-by-game cumulative graphs (MoneyPuck + animint2)
 
+animint_output/index.html
+
 This project builds interactive, game-by-game cumulative stats visualizations
 for NHL players using MoneyPuck data.
 
