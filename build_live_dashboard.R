@@ -1,4 +1,4 @@
-# build_live_dashboard.R - Dashboard with manual refresh capability
+# build_live_dashboard.R - Dashboard avec les données actuelles
 library(tidyverse)
 library(jsonlite)
 
@@ -28,7 +28,7 @@ season_summary <- df %>%
     .groups = "drop"
   )
 
-# Get last update time
+# Get stats
 last_update <- format(Sys.time(), "%Y-%m-%d %H:%M:%S")
 total_players <- length(unique(df$player))
 total_games <- nrow(df)
@@ -39,12 +39,12 @@ cat("✅ Loaded", total_players, "players,", total_games, "total games\n")
 game_json <- toJSON(df, dataframe = "rows")
 season_json <- toJSON(season_summary, dataframe = "rows")
 
-# Create HTML with refresh capability
+# Create HTML
 html_content <- paste0('
 <!DOCTYPE html>
 <html>
 <head>
-    <title>NHL Game-by-Game Stats - LIVE</title>
+    <title>NHL Game-by-Game Stats</title>
     <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
     <style>
         body {
@@ -76,26 +76,6 @@ html_content <- paste0('
             font-size: 12px;
             color: #1976d2;
             font-weight: bold;
-        }
-        .refresh-btn {
-            background: #28a745;
-            color: white;
-            border: none;
-            padding: 12px 24px;
-            border-radius: 5px;
-            cursor: pointer;
-            font-size: 14px;
-            font-weight: bold;
-            transition: all 0.3s;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
-        }
-        .refresh-btn:hover {
-            background: #218838;
-            transform: translateY(-2px);
-            box-shadow: 0 4px 8px rgba(0,0,0,0.3);
-        }
-        .refresh-btn:active {
-            transform: translateY(0);
         }
         .status-indicator {
             display: inline-block;
@@ -155,8 +135,6 @@ html_content <- paste0('
             padding: 10px;
             text-align: left;
             font-weight: bold;
-            position: sticky;
-            top: 0;
         }
         td {
             padding: 8px;
@@ -192,23 +170,6 @@ html_content <- paste0('
             position: sticky;
             top: 20px;
         }
-        .refresh-instructions {
-            background: #fff3cd;
-            border: 1px solid #ffc107;
-            border-radius: 5px;
-            padding: 15px;
-            margin-top: 10px;
-            font-size: 13px;
-        }
-        .refresh-instructions strong {
-            display: block;
-            margin-bottom: 5px;
-            color: #856404;
-        }
-        .refresh-instructions ol {
-            margin: 5px 0;
-            padding-left: 20px;
-        }
     </style>
 </head>
 <body>
@@ -219,21 +180,8 @@ html_content <- paste0('
             <span class="stats-badge">🎮 ', format(total_games, big.mark=","), ' Games</span>
             <span>
                 <span class="status-indicator"></span>
-                Last updated: <strong id="lastUpdate">', last_update, '</strong>
+                Last updated: <strong>', last_update, '</strong>
             </span>
-            <button class="refresh-btn" onclick="showRefreshInstructions()">
-                🔄 Update Data
-            </button>
-        </div>
-        
-        <div class="refresh-instructions" id="refreshInstructions" style="display: none; max-width: 600px; margin: 20px auto 0;">
-            <strong>📝 To update with latest stats:</strong>
-            <ol>
-                <li>Download latest CSV files from MoneyPuck to <code>data_gbg/</code></li>
-                <li>Run: <code>python build_players_game_by_game.py</code></li>
-                <li>Run: <code>Rscript build_live_dashboard.R</code></li>
-                <li>Refresh this page in your browser (F5)</li>
-            </ol>
         </div>
     </div>
     
@@ -262,7 +210,6 @@ html_content <- paste0('
     </div>
 
     <script>
-        // Embedded data
         let gameData = ', game_json, ';
         let seasonData = ', season_json, ';
         
@@ -275,7 +222,6 @@ html_content <- paste0('
             
             updatePlayerList(allPlayers);
             
-            // Auto-select first player
             if (allPlayers.length > 0) {
                 selectPlayer(allPlayers[0]);
             }
@@ -406,7 +352,6 @@ html_content <- paste0('
                 `;
             });
             
-            // Career totals
             const totals = {
                 GP: sorted.reduce((sum, s) => sum + s.GP, 0),
                 G: sorted.reduce((sum, s) => sum + s.G, 0),
@@ -433,25 +378,13 @@ html_content <- paste0('
             document.getElementById("statsTable").innerHTML = html;
         }
 
-        function showRefreshInstructions() {
-            const instructions = document.getElementById("refreshInstructions");
-            instructions.style.display = instructions.style.display === "none" ? "block" : "none";
-        }
-
-        // Initialize
         init();
     </script>
 </body>
 </html>
 ')
 
-# Write HTML file
 writeLines(html_content, "animint_output/index.html")
 
-cat("\n✅ Dashboard created successfully!\n")
+cat("\n✅ Dashboard created!\n")
 cat("📂 Open: animint_output/index.html\n")
-cat("\n💡 To update with latest stats:\n")
-cat("   1. Download latest MoneyPuck CSVs to data_gbg/\n")
-cat("   2. Run: python build_players_game_by_game.py\n")
-cat("   3. Run: Rscript build_live_dashboard.R\n")
-cat("   4. Refresh browser (F5)\n")
